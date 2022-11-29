@@ -1,0 +1,194 @@
+{
+    "age": "23",
+    "assists_cl": "3",
+    "assists_cl_all_seasons": "22",
+    "assists_global_ranking_cl_names_above": [
+        "Lionel Messi",
+        "Diogo Jota",
+        "Jo\u00e3o Cancelo"
+    ],
+    "assists_global_ranking_cl_names_below": [
+        "Enzo Fernandez",
+        "Frantzdy Pierrot",
+        "Ferran Jutgl\u00e0"
+    ],
+    "assists_global_ranking_cl_names_tied": [
+        "Mohamed Simakan",
+        "Khvicha Kvaratskhelia",
+        "Andr\u00e9-Frank Zambo Anguissa"
+    ],
+    "assists_global_ranking_cl_place": 2,
+    "assists_team_ranking_cl_names_above": [
+        "Lionel Messi"
+    ],
+    "assists_team_ranking_cl_names_below": [
+        "Achraf Hakimi"
+    ],
+    "assists_team_ranking_cl_names_tied": [
+        "Neymar"
+    ],
+    "assists_team_ranking_cl_place": 2,
+    "clubs_scored_cl": [
+        "AS Monaco FC",
+        "Paris Saint-Germain"
+    ],
+    "competition_code": "UCL",
+    "current_club": "Paris Saint-Germain",
+    "current_season": "2023",
+    "fouls_committed_cl": "1",
+    "fouls_committed_cl_all_seasons": "18",
+    "fouls_suffered_cl": "16",
+    "fouls_suffered_cl_all_seasons": "81",
+    "free_kick_cl": "1",
+    "free_kick_cl_all_seasons": "5",
+    "free_kick_global_ranking_cl_names_above": [
+        "James Milner",
+        "Steven Davis",
+        "Federico Gatti"
+    ],
+    "free_kick_global_ranking_cl_names_below": [
+        "Arthur Gomes",
+        "Kasper Dolberg",
+        "Fatawu Issahaku"
+    ],
+    "free_kick_global_ranking_cl_names_tied": [
+        "Henrikh Mkhitaryan",
+        "Karim Benzema",
+        "Edin D\u017eeko"
+    ],
+    "free_kick_global_ranking_cl_place": 23,
+    "free_kick_team_ranking_cl_names_above": [
+        "Nuno Mendes",
+        "Renato Sanches"
+    ],
+    "free_kick_team_ranking_cl_names_below": [
+        "Warren Zaire-Emery",
+        "Hugo Ekitike",
+        "Nordi Mukiele"
+    ],
+    "free_kick_team_ranking_cl_names_tied": [
+        "Fabi\u00e1n Ruiz",
+        "Vitinha",
+        "Carlos Soler"
+    ],
+    "free_kick_team_ranking_cl_place": 10,
+    "gender": "male",
+    "goals_average_cl": 1.2,
+    "goals_average_cl_all_seasons": 0.7,
+    "goals_cl": "7",
+    "goals_cl_all_seasons": "40",
+    "goals_global_ranking_cl_names_above": [],
+    "goals_global_ranking_cl_names_below": [
+        "Erling Haaland",
+        "Mehdi Taremi",
+        "Robert Lewandowski"
+    ],
+    "goals_global_ranking_cl_names_tied": [
+        "Mohamed Salah"
+    ],
+    "goals_global_ranking_cl_place": 1,
+    "goals_team_ranking_cl_names_above": [],
+    "goals_team_ranking_cl_names_below": [
+        "Lionel Messi"
+    ],
+    "goals_team_ranking_cl_names_tied": [],
+    "goals_team_ranking_cl_place": 1,
+    "matches_appearance_cl": "6",
+    "matches_appearance_cl_all_seasons": "59",
+    "name": "Kylian Mbapp\u00e9",
+    "nationality": "France",
+    "passes_accuracy_cl": "78.67",
+    "passes_accuracy_cl_all_seasons": "80.06",
+    "passes_accuracy_global_ranking_cl_names_above": [
+        "Lukas Lerager",
+        "Jonathan Clauss"
+    ],
+    "passes_accuracy_global_ranking_cl_names_below": [
+        "Steven Berghuis",
+        "V\u00e1clav Jemelka",
+        "Dolev Haziza"
+    ],
+    "passes_accuracy_global_ranking_cl_names_tied": [
+        "Milan Havel",
+        "Sead Hak\u0161abanovi\u0107",
+        "Sotirios Alexandropoulos"
+    ],
+    "passes_accuracy_global_ranking_cl_place": 165,
+    "passes_accuracy_team_ranking_cl_names_above": [
+        "Carlos Soler"
+    ],
+    "passes_accuracy_team_ranking_cl_names_below": [
+        "Nordi Mukiele"
+    ],
+    "passes_accuracy_team_ranking_cl_names_tied": [],
+    "passes_accuracy_team_ranking_cl_place": 16,
+    "position": "Forward",
+    "red_cards_cl": "0",
+    "red_cards_cl_all_seasons": "0",
+    "red_cards_global_ranking_cl_names_above": [
+        "Antonio Ad\u00e1n",
+        "James Sands",
+        "Kamal Sowah"
+    ],
+    "red_cards_global_ranking_cl_names_below": [],
+    "red_cards_global_ranking_cl_names_tied": [
+        "Remko Pasveer",
+        "Simon Mignolet",
+        "Henrikh Mkhitaryan"
+    ],
+    "red_cards_global_ranking_cl_place": 2,
+    "red_cards_team_ranking_cl_names": [
+        "Lionel Messi",
+        "Sergio Ramos",
+        "Warren Zaire-Emery"
+    ],
+    "red_cards_team_ranking_cl_names_above": [],
+    "red_cards_team_ranking_cl_names_below": [],
+    "red_cards_team_ranking_cl_place": 1,
+    "start_date_club": "2018",
+    "top_speed_cl": "35.6",
+    "top_speed_cl_all_seasons": "36.71",
+    "top_speed_global_ranking_cl_names_above": [
+        "Theo Hern\u00e1ndez"
+    ],
+    "top_speed_global_ranking_cl_names_below": [
+        "Reinildo",
+        "Jeremie Frimpong",
+        "Raoul Bellanova"
+    ],
+    "top_speed_global_ranking_cl_names_tied": [
+        "Pep\u00ea"
+    ],
+    "top_speed_global_ranking_cl_place": 8,
+    "top_speed_team_ranking_cl_names_above": [],
+    "top_speed_team_ranking_cl_names_below": [
+        "Achraf Hakimi"
+    ],
+    "top_speed_team_ranking_cl_names_tied": [],
+    "top_speed_team_ranking_cl_place": 1,
+    "yellow_cards_cl": "0",
+    "yellow_cards_cl_all_seasons": "4",
+    "yellow_cards_global_ranking_cl_names_above": [
+        "Henrikh Mkhitaryan",
+        "James Milner",
+        "Minjae Kim"
+    ],
+    "yellow_cards_global_ranking_cl_names_below": [],
+    "yellow_cards_global_ranking_cl_names_tied": [
+        "Remko Pasveer",
+        "Manuel Neuer",
+        "Ivan Rakiti\u0107"
+    ],
+    "yellow_cards_global_ranking_cl_place": 5,
+    "yellow_cards_team_ranking_cl_names_above": [
+        "Fabi\u00e1n Ruiz",
+        "Pablo Sarabia"
+    ],
+    "yellow_cards_team_ranking_cl_names_below": [],
+    "yellow_cards_team_ranking_cl_names_tied": [
+        "Lionel Messi",
+        "Warren Zaire-Emery",
+        "Hugo Ekitike"
+    ],
+    "yellow_cards_team_ranking_cl_place": 5
+}

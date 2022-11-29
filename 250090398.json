@@ -1,0 +1,186 @@
+{
+    "age": "25",
+    "assists_cl": "0",
+    "assists_cl_all_seasons": "1",
+    "assists_global_ranking_cl_names_above": [
+        "Ivan Rakiti\u0107",
+        "Edin D\u017eeko",
+        "Chiquinho"
+    ],
+    "assists_global_ranking_cl_names_below": [],
+    "assists_global_ranking_cl_names_tied": [
+        "Remko Pasveer",
+        "Simon Mignolet",
+        "Henrikh Mkhitaryan"
+    ],
+    "assists_global_ranking_cl_place": 5,
+    "assists_team_ranking_cl_names_above": [
+        "Samuel Iling-Junior",
+        "Du\u0161an Vlahovi\u0107",
+        "Leandro Paredes"
+    ],
+    "assists_team_ranking_cl_names_below": [],
+    "assists_team_ranking_cl_names_tied": [
+        "Federico Gatti",
+        "Tommaso Barbieri",
+        "Mat\u00ecas Soul\u00e8"
+    ],
+    "assists_team_ranking_cl_place": 3,
+    "clubs_scored_cl": [
+        "Juventus"
+    ],
+    "competition_code": "UCL",
+    "current_club": "Juventus",
+    "current_season": "2023",
+    "fouls_committed_cl": "1",
+    "fouls_committed_cl_all_seasons": "13",
+    "fouls_suffered_cl": "0",
+    "fouls_suffered_cl_all_seasons": "21",
+    "free_kick_cl": "0",
+    "free_kick_cl_all_seasons": "3",
+    "free_kick_global_ranking_cl_names_above": [
+        "Henrikh Mkhitaryan",
+        "Karim Benzema",
+        "Edin D\u017eeko"
+    ],
+    "free_kick_global_ranking_cl_names_below": [],
+    "free_kick_global_ranking_cl_names_tied": [
+        "Arthur Gomes",
+        "Kasper Dolberg",
+        "Fatawu Issahaku"
+    ],
+    "free_kick_global_ranking_cl_place": 24,
+    "free_kick_team_ranking_cl_names_above": [
+        "Mat\u00ecas Soul\u00e8",
+        "Fabio Miretti",
+        "Mattia Perin"
+    ],
+    "free_kick_team_ranking_cl_names_below": [],
+    "free_kick_team_ranking_cl_names_tied": [
+        "Tommaso Barbieri",
+        "Enzo Alan Tomas Barrenechea",
+        "Samuel Iling-Junior"
+    ],
+    "free_kick_team_ranking_cl_place": 9,
+    "gender": "male",
+    "goals_average_cl": 0.0,
+    "goals_average_cl_all_seasons": 0.5,
+    "goals_cl": "0",
+    "goals_cl_all_seasons": "6",
+    "goals_global_ranking_cl_names_above": [
+        "Henrikh Mkhitaryan",
+        "Abakar Sylla",
+        "Adam Vlkanova"
+    ],
+    "goals_global_ranking_cl_names_below": [],
+    "goals_global_ranking_cl_names_tied": [
+        "Remko Pasveer",
+        "Simon Mignolet",
+        "Manuel Neuer"
+    ],
+    "goals_global_ranking_cl_place": 7,
+    "goals_team_ranking_cl_names_above": [
+        "Du\u0161an Vlahovi\u0107",
+        "Moise Kean",
+        "Leonardo Bonucci"
+    ],
+    "goals_team_ranking_cl_names_below": [],
+    "goals_team_ranking_cl_names_tied": [
+        "Federico Gatti",
+        "Tommaso Barbieri",
+        "Mat\u00ecas Soul\u00e8"
+    ],
+    "goals_team_ranking_cl_place": 3,
+    "matches_appearance_cl": "1",
+    "matches_appearance_cl_all_seasons": "13",
+    "name": "Federico Chiesa",
+    "nationality": "Italy",
+    "passes_accuracy_cl": "89",
+    "passes_accuracy_cl_all_seasons": "74.47",
+    "passes_accuracy_global_ranking_cl_names_above": null,
+    "passes_accuracy_global_ranking_cl_names_below": null,
+    "passes_accuracy_global_ranking_cl_names_tied": null,
+    "passes_accuracy_global_ranking_cl_place": null,
+    "passes_accuracy_team_ranking_cl_names_above": null,
+    "passes_accuracy_team_ranking_cl_names_below": null,
+    "passes_accuracy_team_ranking_cl_names_tied": null,
+    "passes_accuracy_team_ranking_cl_place": null,
+    "position": "Forward",
+    "red_cards_cl": "0",
+    "red_cards_cl_all_seasons": "0",
+    "red_cards_global_ranking_cl_names_above": [
+        "Antonio Ad\u00e1n",
+        "James Sands",
+        "Kamal Sowah"
+    ],
+    "red_cards_global_ranking_cl_names_below": [],
+    "red_cards_global_ranking_cl_names_tied": [
+        "Remko Pasveer",
+        "Simon Mignolet",
+        "Henrikh Mkhitaryan"
+    ],
+    "red_cards_global_ranking_cl_place": 2,
+    "red_cards_team_ranking_cl_names": [
+        "Federico Gatti",
+        "Tommaso Barbieri",
+        "Mat\u00ecas Soul\u00e8"
+    ],
+    "red_cards_team_ranking_cl_names_above": [],
+    "red_cards_team_ranking_cl_names_below": [],
+    "red_cards_team_ranking_cl_place": 1,
+    "start_date_club": null,
+    "top_speed_cl": "30.1",
+    "top_speed_cl_all_seasons": "35.71",
+    "top_speed_global_ranking_cl_names_above": [
+        "Mamoudou Karamoko",
+        "Matteo Guendouzi",
+        "Aur\u00e9lien Tchouameni"
+    ],
+    "top_speed_global_ranking_cl_names_below": [
+        "Paul Wanner",
+        "Martin Baturina",
+        "Fabio Miretti"
+    ],
+    "top_speed_global_ranking_cl_names_tied": [
+        "Tommaso Barbieri",
+        "Florentino",
+        "John Stones"
+    ],
+    "top_speed_global_ranking_cl_place": 61,
+    "top_speed_team_ranking_cl_names_above": [
+        "Daniele Rugani"
+    ],
+    "top_speed_team_ranking_cl_names_below": [
+        "Fabio Miretti"
+    ],
+    "top_speed_team_ranking_cl_names_tied": [
+        "Tommaso Barbieri"
+    ],
+    "top_speed_team_ranking_cl_place": 17,
+    "yellow_cards_cl": "0",
+    "yellow_cards_cl_all_seasons": "2",
+    "yellow_cards_global_ranking_cl_names_above": [
+        "Henrikh Mkhitaryan",
+        "James Milner",
+        "Minjae Kim"
+    ],
+    "yellow_cards_global_ranking_cl_names_below": [],
+    "yellow_cards_global_ranking_cl_names_tied": [
+        "Remko Pasveer",
+        "Manuel Neuer",
+        "Ivan Rakiti\u0107"
+    ],
+    "yellow_cards_global_ranking_cl_place": 5,
+    "yellow_cards_team_ranking_cl_names_above": [
+        "Federico Gatti",
+        "Bremer",
+        "Weston McKennie"
+    ],
+    "yellow_cards_team_ranking_cl_names_below": [],
+    "yellow_cards_team_ranking_cl_names_tied": [
+        "Tommaso Barbieri",
+        "Mat\u00ecas Soul\u00e8",
+        "Enzo Alan Tomas Barrenechea"
+    ],
+    "yellow_cards_team_ranking_cl_place": 4
+}
