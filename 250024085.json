@@ -1,0 +1,172 @@
+{
+    "age": "27",
+    "assists_cl": "0",
+    "assists_cl_all_seasons": "1",
+    "assists_global_ranking_cl_names_above": [
+        "Ana Vit\u00f3ria",
+        "Clo\u00e9 Lacasse",
+        "Sveind\u00eds J\u00f3nsd\u00f3ttir"
+    ],
+    "assists_global_ranking_cl_names_below": [],
+    "assists_global_ranking_cl_names_tied": [
+        "Janice Cayman",
+        "Mateja Zver",
+        "Vanessa Bernauer"
+    ],
+    "assists_global_ranking_cl_place": 4,
+    "assists_team_ranking_cl_names_above": [
+        "Steph Catley",
+        "Frida Maanum",
+        "Mana Iwabuchi"
+    ],
+    "assists_team_ranking_cl_names_below": [],
+    "assists_team_ranking_cl_names_tied": [
+        "Kaylan Marckese",
+        "Lotte  Wubben-Moy",
+        "Laura Wienroither"
+    ],
+    "assists_team_ranking_cl_place": 3,
+    "clubs_scored_cl": [
+        "Arsenal WFC",
+        "Juventus Football Club",
+        "Link\u00f6pings FC"
+    ],
+    "competition_code": "UWCL",
+    "current_club": "Arsenal WFC",
+    "current_season": "2023",
+    "fouls_committed_cl": "1",
+    "fouls_committed_cl_all_seasons": "19",
+    "fouls_suffered_cl": "2",
+    "fouls_suffered_cl_all_seasons": "19",
+    "free_kick_cl": "0",
+    "free_kick_cl_all_seasons": "0",
+    "free_kick_global_ranking_cl_names_above": [
+        "Vanessa Bernauer",
+        "Tainara",
+        "Val\u00e9ria Silva"
+    ],
+    "free_kick_global_ranking_cl_names_below": [],
+    "free_kick_global_ranking_cl_names_tied": [
+        "Janice Cayman",
+        "Isabelle Meyer",
+        "Maria Bashka"
+    ],
+    "free_kick_global_ranking_cl_place": 13,
+    "free_kick_team_ranking_cl_names_above": [
+        "Lotte  Wubben-Moy",
+        "Laura Wienroither",
+        "Vivianne Miedema"
+    ],
+    "free_kick_team_ranking_cl_names_below": [],
+    "free_kick_team_ranking_cl_names_tied": [
+        "Kaylan Marckese",
+        "Frida Maanum",
+        "Stina Blackstenius"
+    ],
+    "free_kick_team_ranking_cl_place": 5,
+    "gender": "female",
+    "goals_average_cl": 0.7,
+    "goals_average_cl_all_seasons": 0.5,
+    "goals_cl": "2",
+    "goals_cl_all_seasons": "12",
+    "goals_global_ranking_cl_names_above": [
+        "Aitana Bonmat\u00ed",
+        "Mariona Caldentey",
+        "Ewa Pajor"
+    ],
+    "goals_global_ranking_cl_names_below": [
+        "Rita Schumacher",
+        "Nycole Raysla",
+        "Clo\u00e9 Lacasse"
+    ],
+    "goals_global_ranking_cl_names_tied": [
+        "Geyse",
+        "Asisat Oshoala",
+        "Georgia Stanway"
+    ],
+    "goals_global_ranking_cl_place": 3,
+    "goals_team_ranking_cl_names_above": [],
+    "goals_team_ranking_cl_names_below": [
+        "Frida Maanum",
+        "Jordan Nobbs"
+    ],
+    "goals_team_ranking_cl_names_tied": [
+        "Caitlin Foord",
+        "Beth Mead"
+    ],
+    "goals_team_ranking_cl_place": 1,
+    "matches_appearance_cl": "3",
+    "matches_appearance_cl_all_seasons": "26",
+    "name": "Lina Hurtig",
+    "nationality": "Sweden",
+    "passes_accuracy_cl": "42.5",
+    "passes_accuracy_cl_all_seasons": "68.7",
+    "passes_accuracy_global_ranking_cl_names_above": [
+        "Vivianne Miedema"
+    ],
+    "passes_accuracy_global_ranking_cl_names_below": [
+        "Mimmi Larsson"
+    ],
+    "passes_accuracy_global_ranking_cl_names_tied": [],
+    "passes_accuracy_global_ranking_cl_place": 82,
+    "passes_accuracy_team_ranking_cl_names_above": [
+        "Vivianne Miedema"
+    ],
+    "passes_accuracy_team_ranking_cl_names_below": [],
+    "passes_accuracy_team_ranking_cl_names_tied": [],
+    "passes_accuracy_team_ranking_cl_place": 12,
+    "position": "Forward",
+    "red_cards_cl": "0",
+    "red_cards_cl_all_seasons": "0",
+    "red_cards_global_ranking_cl_names_above": [],
+    "red_cards_global_ranking_cl_names_below": [],
+    "red_cards_global_ranking_cl_names_tied": [
+        "Janice Cayman",
+        "Mateja Zver",
+        "Vanessa Bernauer"
+    ],
+    "red_cards_global_ranking_cl_place": 1,
+    "red_cards_team_ranking_cl_names": [
+        "Kaylan Marckese",
+        "Steph Catley",
+        "Lotte  Wubben-Moy"
+    ],
+    "red_cards_team_ranking_cl_names_above": [],
+    "red_cards_team_ranking_cl_names_below": [],
+    "red_cards_team_ranking_cl_place": 1,
+    "start_date_club": "2023",
+    "top_speed_cl": null,
+    "top_speed_cl_all_seasons": "28.9",
+    "top_speed_global_ranking_cl_names_above": null,
+    "top_speed_global_ranking_cl_names_below": null,
+    "top_speed_global_ranking_cl_names_tied": null,
+    "top_speed_global_ranking_cl_place": null,
+    "top_speed_team_ranking_cl_names_above": null,
+    "top_speed_team_ranking_cl_names_below": null,
+    "top_speed_team_ranking_cl_names_tied": null,
+    "top_speed_team_ranking_cl_place": null,
+    "yellow_cards_cl": "0",
+    "yellow_cards_cl_all_seasons": "1",
+    "yellow_cards_global_ranking_cl_names_above": [
+        "Vanessa Bernauer",
+        "Franziska Kett",
+        "Lucia Alves"
+    ],
+    "yellow_cards_global_ranking_cl_names_below": [],
+    "yellow_cards_global_ranking_cl_names_tied": [
+        "Janice Cayman",
+        "Mateja Zver",
+        "Linda Sembrant"
+    ],
+    "yellow_cards_global_ranking_cl_place": 3,
+    "yellow_cards_team_ranking_cl_names_above": [
+        "Beth Mead"
+    ],
+    "yellow_cards_team_ranking_cl_names_below": [],
+    "yellow_cards_team_ranking_cl_names_tied": [
+        "Kaylan Marckese",
+        "Steph Catley",
+        "Lotte  Wubben-Moy"
+    ],
+    "yellow_cards_team_ranking_cl_place": 2
+}
