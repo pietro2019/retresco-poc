@@ -1,160 +1,162 @@
 {
-    "age": "23",
-    "assists_cl": "0",
-    "assists_cl_all_seasons": "0",
-    "assists_global_ranking_cl_names_above": [
-        "Ana Vit\u00f3ria",
-        "Clo\u00e9 Lacasse",
-        "Sveind\u00eds J\u00f3nsd\u00f3ttir"
-    ],
-    "assists_global_ranking_cl_names_below": [],
-    "assists_global_ranking_cl_names_tied": [
-        "Janice Cayman",
-        "Mateja Zver",
-        "Vanessa Bernauer"
-    ],
-    "assists_global_ranking_cl_place": 4,
-    "assists_team_ranking_cl_names_above": [
-        "Eleni Markou"
-    ],
-    "assists_team_ranking_cl_names_below": [],
-    "assists_team_ranking_cl_names_tied": [
-        "Vanessa Bernauer",
-        "Alayah Pilgrim",
-        "Lourdes Romero"
-    ],
-    "assists_team_ranking_cl_place": 2,
-    "clubs_scored_cl": [
-        "FC Z\u00fcrich Frauen"
-    ],
-    "competition_code": "UWCL",
-    "current_club": "FC Z\u00fcrich Frauen",
-    "current_season": "2023",
-    "fouls_committed_cl": "0",
-    "fouls_committed_cl_all_seasons": "0",
-    "fouls_suffered_cl": "2",
-    "fouls_suffered_cl_all_seasons": "2",
-    "free_kick_cl": "0",
-    "free_kick_cl_all_seasons": "0",
-    "free_kick_global_ranking_cl_names_above": [
-        "Vanessa Bernauer",
-        "Tainara",
-        "Val\u00e9ria Silva"
-    ],
-    "free_kick_global_ranking_cl_names_below": [],
-    "free_kick_global_ranking_cl_names_tied": [
-        "Janice Cayman",
-        "Isabelle Meyer",
-        "Maria Bashka"
-    ],
-    "free_kick_global_ranking_cl_place": 13,
-    "free_kick_team_ranking_cl_names_above": [
-        "Vanessa Bernauer",
-        "Nadine Riesen",
-        "Marion Rey"
-    ],
-    "free_kick_team_ranking_cl_names_below": [],
-    "free_kick_team_ranking_cl_names_tied": [
-        "Alayah Pilgrim",
-        "Seraina Piubel",
-        "Kim Dubs"
-    ],
-    "free_kick_team_ranking_cl_place": 5,
-    "gender": "female",
-    "goals_average_cl": 0.2,
-    "goals_average_cl_all_seasons": 0.2,
-    "goals_cl": "1",
-    "goals_cl_all_seasons": "1",
-    "goals_global_ranking_cl_names_above": [
-        "Rita Schumacher",
-        "Nycole Raysla",
-        "Clo\u00e9 Lacasse"
-    ],
-    "goals_global_ranking_cl_names_below": [],
-    "goals_global_ranking_cl_names_tied": [
-        "Janice Cayman",
-        "Mateja Zver",
-        "Vanessa Bernauer"
-    ],
-    "goals_global_ranking_cl_place": 5,
-    "goals_team_ranking_cl_names_above": [
-        "Seraina Piubel"
-    ],
-    "goals_team_ranking_cl_names_below": [],
-    "goals_team_ranking_cl_names_tied": [
-        "Vanessa Bernauer",
-        "Alayah Pilgrim",
-        "Lourdes Romero"
-    ],
-    "goals_team_ranking_cl_place": 2,
-    "matches_appearance_cl": "4",
-    "matches_appearance_cl_all_seasons": "4",
-    "name": "Oliwia Wo\u015b",
-    "nationality": "Germany",
-    "passes_accuracy_cl": "100",
-    "passes_accuracy_cl_all_seasons": "100",
-    "passes_accuracy_global_ranking_cl_names_above": null,
-    "passes_accuracy_global_ranking_cl_names_below": null,
-    "passes_accuracy_global_ranking_cl_names_tied": null,
-    "passes_accuracy_global_ranking_cl_place": null,
-    "passes_accuracy_team_ranking_cl_names_above": null,
-    "passes_accuracy_team_ranking_cl_names_below": null,
-    "passes_accuracy_team_ranking_cl_names_tied": null,
-    "passes_accuracy_team_ranking_cl_place": null,
-    "position": "Defender",
-    "red_cards_cl": "0",
-    "red_cards_cl_all_seasons": "0",
-    "red_cards_global_ranking_cl_names_above": [],
-    "red_cards_global_ranking_cl_names_below": [],
-    "red_cards_global_ranking_cl_names_tied": [
-        "Janice Cayman",
-        "Mateja Zver",
-        "Vanessa Bernauer"
-    ],
-    "red_cards_global_ranking_cl_place": 1,
-    "red_cards_team_ranking_cl_names": [
-        "Vanessa Bernauer",
-        "Alayah Pilgrim",
-        "Lourdes Romero"
-    ],
-    "red_cards_team_ranking_cl_names_above": [],
-    "red_cards_team_ranking_cl_names_below": [],
-    "red_cards_team_ranking_cl_place": 1,
-    "start_date_club": null,
-    "top_speed_cl": null,
-    "top_speed_cl_all_seasons": null,
-    "top_speed_global_ranking_cl_names_above": null,
-    "top_speed_global_ranking_cl_names_below": null,
-    "top_speed_global_ranking_cl_names_tied": null,
-    "top_speed_global_ranking_cl_place": null,
-    "top_speed_team_ranking_cl_names_above": null,
-    "top_speed_team_ranking_cl_names_below": null,
-    "top_speed_team_ranking_cl_names_tied": null,
-    "top_speed_team_ranking_cl_place": null,
-    "yellow_cards_cl": "0",
-    "yellow_cards_cl_all_seasons": "0",
-    "yellow_cards_global_ranking_cl_names_above": [
-        "Vanessa Bernauer",
-        "Franziska Kett",
-        "Lucia Alves"
-    ],
-    "yellow_cards_global_ranking_cl_names_below": [],
-    "yellow_cards_global_ranking_cl_names_tied": [
-        "Janice Cayman",
-        "Mateja Zver",
-        "Linda Sembrant"
-    ],
-    "yellow_cards_global_ranking_cl_place": 3,
-    "yellow_cards_team_ranking_cl_names_above": [
-        "Vanessa Bernauer",
-        "Nadine Riesen",
-        "Viktoria Pinther"
-    ],
-    "yellow_cards_team_ranking_cl_names_below": [],
-    "yellow_cards_team_ranking_cl_names_tied": [
-        "Alayah Pilgrim",
-        "Lourdes Romero",
-        "Seraina Piubel"
-    ],
-    "yellow_cards_team_ranking_cl_place": 2
+  "age": "23",
+  "assists_cl": "0",
+  "assists_cl_all_seasons": "0",
+  "assists_global_ranking_cl_names_tied": [
+    "Janice Cayman",
+    "Mateja Zver",
+    "Vanessa Bernauer"
+  ],
+  "assists_global_ranking_cl_names_above": [
+    "Rita Schumacher",
+    "Ana Vit\u00f3ria",
+    "Clo\u00e9 Lacasse"
+  ],
+  "assists_global_ranking_cl_names_below": [],
+  "assists_global_ranking_cl_place": 5,
+  "assists_team_ranking_cl_names_tied": [
+    "Vanessa Bernauer",
+    "Leela Egli",
+    "Alayah Pilgrim"
+  ],
+  "assists_team_ranking_cl_names_above": [
+    "Eleni Markou"
+  ],
+  "assists_team_ranking_cl_names_below": [],
+  "assists_team_ranking_cl_place": 2,
+  "clubs_scored_cl": [
+    "FC Z\u00fcrich Frauen"
+  ],
+  "competition_code": "UWCL",
+  "current_club": "FC Z\u00fcrich Frauen",
+  "current_season": "2023",
+  "fouls_committed_cl": "0",
+  "fouls_committed_cl_all_seasons": "0",
+  "fouls_suffered_cl": "2",
+  "fouls_suffered_cl_all_seasons": "2",
+  "free_kick_cl": "0",
+  "free_kick_cl_all_seasons": "0",
+  "free_kick_global_ranking_cl_names_tied": [
+    "Janice Cayman",
+    "Isabelle Meyer",
+    "Maria Bashka"
+  ],
+  "free_kick_global_ranking_cl_names_above": [
+    "Lainie Fuchs",
+    "Athinna Persson",
+    "Agnese Bonfantini"
+  ],
+  "free_kick_global_ranking_cl_names_below": [],
+  "free_kick_global_ranking_cl_place": 16,
+  "free_kick_team_ranking_cl_names_tied": [
+    "Leela Egli",
+    "Alayah Pilgrim",
+    "Kim Dubs"
+  ],
+  "free_kick_team_ranking_cl_names_above": [
+    "Nadine Riesen",
+    "Seraina Piubel",
+    "Marion Rey"
+  ],
+  "free_kick_team_ranking_cl_names_below": [],
+  "free_kick_team_ranking_cl_place": 7,
+  "gender": "female",
+  "goals_average_cl": 0.2,
+  "goals_average_cl_all_seasons": 0.2,
+  "goals_cl": "1",
+  "goals_cl_all_seasons": "1",
+  "goals_global_ranking_cl_names_tied": [
+    "Janice Cayman",
+    "Mateja Zver",
+    "Vanessa Bernauer"
+  ],
+  "goals_global_ranking_cl_names_above": [
+    "Rita Schumacher",
+    "Magnaba Folquet",
+    "Nycole Raysla"
+  ],
+  "goals_global_ranking_cl_names_below": [],
+  "goals_global_ranking_cl_place": 5,
+  "goals_team_ranking_cl_names_tied": [
+    "Vanessa Bernauer",
+    "Leela Egli",
+    "Alayah Pilgrim"
+  ],
+  "goals_team_ranking_cl_names_above": [
+    "Seraina Piubel"
+  ],
+  "goals_team_ranking_cl_names_below": [],
+  "goals_team_ranking_cl_place": 2,
+  "matches_appearance_cl": "4",
+  "matches_appearance_cl_all_seasons": "4",
+  "name": "Oliwia Wo\u015b",
+  "nationality": "Germany",
+  "passes_accuracy_cl": "100",
+  "passes_accuracy_cl_all_seasons": "100",
+  "passes_accuracy_global_ranking_cl_names_tied": null,
+  "passes_accuracy_global_ranking_cl_names_above": null,
+  "passes_accuracy_global_ranking_cl_names_below": null,
+  "passes_accuracy_global_ranking_cl_place": null,
+  "passes_accuracy_team_ranking_cl_names_tied": null,
+  "passes_accuracy_team_ranking_cl_names_above": null,
+  "passes_accuracy_team_ranking_cl_names_below": null,
+  "passes_accuracy_team_ranking_cl_place": null,
+  "position": "Defender",
+  "red_cards_cl": "0",
+  "red_cards_cl_all_seasons": "0",
+  "red_cards_global_ranking_cl_names_tied": [
+    "Janice Cayman",
+    "Mateja Zver",
+    "Vanessa Bernauer"
+  ],
+  "red_cards_global_ranking_cl_names_above": [
+    "Jasmin Eder"
+  ],
+  "red_cards_global_ranking_cl_names_below": [],
+  "red_cards_global_ranking_cl_place": 2,
+  "red_cards_team_ranking_cl_names": [
+    "Vanessa Bernauer",
+    "Leela Egli",
+    "Alayah Pilgrim"
+  ],
+  "red_cards_team_ranking_cl_names_above": [],
+  "red_cards_team_ranking_cl_names_below": [],
+  "red_cards_team_ranking_cl_place": 1,
+  "start_date_club": null,
+  "top_speed_cl": null,
+  "top_speed_cl_all_seasons": null,
+  "top_speed_global_ranking_cl_names_tied": null,
+  "top_speed_global_ranking_cl_names_above": null,
+  "top_speed_global_ranking_cl_names_below": null,
+  "top_speed_global_ranking_cl_place": null,
+  "top_speed_team_ranking_cl_names_tied": null,
+  "top_speed_team_ranking_cl_names_above": null,
+  "top_speed_team_ranking_cl_names_below": null,
+  "top_speed_team_ranking_cl_place": null,
+  "yellow_cards_cl": "0",
+  "yellow_cards_cl_all_seasons": "0",
+  "yellow_cards_global_ranking_cl_names_tied": [
+    "Janice Cayman",
+    "Mateja Zver",
+    "Linda Sembrant"
+  ],
+  "yellow_cards_global_ranking_cl_names_above": [
+    "Vanessa Bernauer",
+    "Franziska Kett",
+    "Lucia Alves"
+  ],
+  "yellow_cards_global_ranking_cl_names_below": [],
+  "yellow_cards_global_ranking_cl_place": 4,
+  "yellow_cards_team_ranking_cl_names_tied": [
+    "Leela Egli",
+    "Alayah Pilgrim",
+    "Lourdes Romero"
+  ],
+  "yellow_cards_team_ranking_cl_names_above": [
+    "Vanessa Bernauer",
+    "Nadine Riesen",
+    "Viktoria Pinther"
+  ],
+  "yellow_cards_team_ranking_cl_names_below": [],
+  "yellow_cards_team_ranking_cl_place": 2
 }

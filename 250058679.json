@@ -1,161 +1,170 @@
 {
-    "age": "24",
-    "assists_cl": "0",
-    "assists_cl_all_seasons": "0",
-    "assists_global_ranking_cl_names_above": [
-        "Ana Vit\u00f3ria",
-        "Clo\u00e9 Lacasse",
-        "Sveind\u00eds J\u00f3nsd\u00f3ttir"
-    ],
-    "assists_global_ranking_cl_names_below": [],
-    "assists_global_ranking_cl_names_tied": [
-        "Janice Cayman",
-        "Mateja Zver",
-        "Vanessa Bernauer"
-    ],
-    "assists_global_ranking_cl_place": 4,
-    "assists_team_ranking_cl_names_above": [],
-    "assists_team_ranking_cl_names_below": [],
-    "assists_team_ranking_cl_names_tied": [
-        "Marjolen Nekesa Wafula",
-        "Denisa Tenkr\u00e1tov\u00e1",
-        "Alika Keene"
-    ],
-    "assists_team_ranking_cl_place": 1,
-    "clubs_scored_cl": [
-        "SK Slavia Praha"
-    ],
-    "competition_code": "UWCL",
-    "current_club": "SK Slavia Praha",
-    "current_season": "2023",
-    "fouls_committed_cl": "13",
-    "fouls_committed_cl_all_seasons": "51",
-    "fouls_suffered_cl": "7",
-    "fouls_suffered_cl_all_seasons": "22",
-    "free_kick_cl": "5",
-    "free_kick_cl_all_seasons": "5",
-    "free_kick_global_ranking_cl_names_above": [
-        "Linda Sembrant",
-        "Christy  Ucheibe",
-        "Francisca Nazareth"
-    ],
-    "free_kick_global_ranking_cl_names_below": [
-        "Vanessa Bernauer",
-        "Tainara",
-        "Val\u00e9ria Silva"
-    ],
-    "free_kick_global_ranking_cl_names_tied": [
-        "Mateja Zver",
-        "Kathellen Sousa",
-        "Oriane Jean-Fran\u00e7ois"
-    ],
-    "free_kick_global_ranking_cl_place": 11,
-    "free_kick_team_ranking_cl_names_above": [
-        "Tereza Krej\u010di\u0159\u00edkov\u00e1"
-    ],
-    "free_kick_team_ranking_cl_names_below": [
-        "Martina \u0160urnovsk\u00e1"
-    ],
-    "free_kick_team_ranking_cl_names_tied": [],
-    "free_kick_team_ranking_cl_place": 5,
-    "gender": "female",
-    "goals_average_cl": 0.0,
-    "goals_average_cl_all_seasons": 0.1,
-    "goals_cl": "0",
-    "goals_cl_all_seasons": "4",
-    "goals_global_ranking_cl_names_above": [
-        "Rita Schumacher",
-        "Nycole Raysla",
-        "Clo\u00e9 Lacasse"
-    ],
-    "goals_global_ranking_cl_names_below": [],
-    "goals_global_ranking_cl_names_tied": [
-        "Janice Cayman",
-        "Mateja Zver",
-        "Vanessa Bernauer"
-    ],
-    "goals_global_ranking_cl_place": 5,
-    "goals_team_ranking_cl_names_above": [],
-    "goals_team_ranking_cl_names_below": [],
-    "goals_team_ranking_cl_names_tied": [
-        "Marjolen Nekesa Wafula",
-        "Denisa Tenkr\u00e1tov\u00e1",
-        "Alika Keene"
-    ],
-    "goals_team_ranking_cl_place": 1,
-    "matches_appearance_cl": "4",
-    "matches_appearance_cl_all_seasons": "28",
-    "name": "Tereza Szewieczkov\u00e1",
-    "nationality": "Czech Republic",
-    "passes_accuracy_cl": "72.5",
-    "passes_accuracy_cl_all_seasons": "72.5",
-    "passes_accuracy_global_ranking_cl_names_above": [
-        "Franny \u010cern\u00e1",
-        "Katelin Talbert"
-    ],
-    "passes_accuracy_global_ranking_cl_names_below": [
-        "Val\u00e9ria Silva",
-        "Mateja Zver",
-        "Vanessa Bernauer"
-    ],
-    "passes_accuracy_global_ranking_cl_names_tied": [],
-    "passes_accuracy_global_ranking_cl_place": 48,
-    "passes_accuracy_team_ranking_cl_names_above": [
-        "Franny \u010cern\u00e1"
-    ],
-    "passes_accuracy_team_ranking_cl_names_below": [
-        "Denisa Tenkr\u00e1tov\u00e1"
-    ],
-    "passes_accuracy_team_ranking_cl_names_tied": [],
-    "passes_accuracy_team_ranking_cl_place": 2,
-    "position": "Midfielder",
-    "red_cards_cl": "0",
-    "red_cards_cl_all_seasons": "0",
-    "red_cards_global_ranking_cl_names_above": [],
-    "red_cards_global_ranking_cl_names_below": [],
-    "red_cards_global_ranking_cl_names_tied": [
-        "Janice Cayman",
-        "Mateja Zver",
-        "Vanessa Bernauer"
-    ],
-    "red_cards_global_ranking_cl_place": 1,
-    "red_cards_team_ranking_cl_names": [
-        "Marjolen Nekesa Wafula",
-        "Denisa Tenkr\u00e1tov\u00e1",
-        "Alika Keene"
-    ],
-    "red_cards_team_ranking_cl_names_above": [],
-    "red_cards_team_ranking_cl_names_below": [],
-    "red_cards_team_ranking_cl_place": 1,
-    "start_date_club": null,
-    "top_speed_cl": null,
-    "top_speed_cl_all_seasons": null,
-    "top_speed_global_ranking_cl_names_above": null,
-    "top_speed_global_ranking_cl_names_below": null,
-    "top_speed_global_ranking_cl_names_tied": null,
-    "top_speed_global_ranking_cl_place": null,
-    "top_speed_team_ranking_cl_names_above": null,
-    "top_speed_team_ranking_cl_names_below": null,
-    "top_speed_team_ranking_cl_names_tied": null,
-    "top_speed_team_ranking_cl_place": null,
-    "yellow_cards_cl": "3",
-    "yellow_cards_cl_all_seasons": "8",
-    "yellow_cards_global_ranking_cl_names_above": [],
-    "yellow_cards_global_ranking_cl_names_below": [
-        "Vanessa Bernauer",
-        "Franziska Kett",
-        "Lucia Alves"
-    ],
-    "yellow_cards_global_ranking_cl_names_tied": [
-        "Carole Costa"
-    ],
-    "yellow_cards_global_ranking_cl_place": 1,
-    "yellow_cards_team_ranking_cl_names_above": [],
-    "yellow_cards_team_ranking_cl_names_below": [
-        "Franny \u010cern\u00e1",
-        "Martina \u0160urnovsk\u00e1",
-        "Tereza Krej\u010di\u0159\u00edkov\u00e1"
-    ],
-    "yellow_cards_team_ranking_cl_names_tied": [],
-    "yellow_cards_team_ranking_cl_place": 1
+  "age": "24",
+  "assists_cl": "0",
+  "assists_cl_all_seasons": "0",
+  "assists_global_ranking_cl_names_tied": [
+    "Janice Cayman",
+    "Mateja Zver",
+    "Vanessa Bernauer"
+  ],
+  "assists_global_ranking_cl_names_above": [
+    "Rita Schumacher",
+    "Ana Vit\u00f3ria",
+    "Clo\u00e9 Lacasse"
+  ],
+  "assists_global_ranking_cl_names_below": [],
+  "assists_global_ranking_cl_place": 5,
+  "assists_team_ranking_cl_names_tied": [
+    "Marjolen Nekesa Wafula",
+    "Denisa Tenkr\u00e1tov\u00e1",
+    "Alika Keene"
+  ],
+  "assists_team_ranking_cl_names_above": [],
+  "assists_team_ranking_cl_names_below": [],
+  "assists_team_ranking_cl_place": 1,
+  "clubs_scored_cl": [
+    "SK Slavia Praha"
+  ],
+  "competition_code": "UWCL",
+  "current_club": "SK Slavia Praha",
+  "current_season": "2023",
+  "fouls_committed_cl": "14",
+  "fouls_committed_cl_all_seasons": "52",
+  "fouls_suffered_cl": "10",
+  "fouls_suffered_cl_all_seasons": "25",
+  "free_kick_cl": "7",
+  "free_kick_cl_all_seasons": "7",
+  "free_kick_global_ranking_cl_names_tied": [
+    "Lucia Alves",
+    "Francisca Nazareth",
+    "Maximiliane Rall"
+  ],
+  "free_kick_global_ranking_cl_names_above": [
+    "Sarah Bouhaddi",
+    "Katelin Talbert",
+    "Carolina Correia"
+  ],
+  "free_kick_global_ranking_cl_names_below": [
+    "Vanessa Bernauer",
+    "Linda Sembrant",
+    "Tainara"
+  ],
+  "free_kick_global_ranking_cl_place": 12,
+  "free_kick_team_ranking_cl_names_tied": [],
+  "free_kick_team_ranking_cl_names_above": [
+    "Tereza Krej\u010di\u0159\u00edkov\u00e1"
+  ],
+  "free_kick_team_ranking_cl_names_below": [
+    "Martina \u0160urnovsk\u00e1"
+  ],
+  "free_kick_team_ranking_cl_place": 5,
+  "gender": "female",
+  "goals_average_cl": 0.0,
+  "goals_average_cl_all_seasons": 0.1,
+  "goals_cl": "0",
+  "goals_cl_all_seasons": "4",
+  "goals_global_ranking_cl_names_tied": [
+    "Janice Cayman",
+    "Mateja Zver",
+    "Vanessa Bernauer"
+  ],
+  "goals_global_ranking_cl_names_above": [
+    "Rita Schumacher",
+    "Magnaba Folquet",
+    "Nycole Raysla"
+  ],
+  "goals_global_ranking_cl_names_below": [],
+  "goals_global_ranking_cl_place": 5,
+  "goals_team_ranking_cl_names_tied": [
+    "Marjolen Nekesa Wafula",
+    "Denisa Tenkr\u00e1tov\u00e1",
+    "Alika Keene"
+  ],
+  "goals_team_ranking_cl_names_above": [],
+  "goals_team_ranking_cl_names_below": [],
+  "goals_team_ranking_cl_place": 1,
+  "matches_appearance_cl": "5",
+  "matches_appearance_cl_all_seasons": "29",
+  "name": "Tereza Szewieczkov\u00e1",
+  "nationality": "Czech Republic",
+  "passes_accuracy_cl": "69",
+  "passes_accuracy_cl_all_seasons": "69",
+  "passes_accuracy_global_ranking_cl_names_tied": [
+    "Athinna Persson"
+  ],
+  "passes_accuracy_global_ranking_cl_names_above": [
+    "Martina Lenzini",
+    "Arianna Caruso"
+  ],
+  "passes_accuracy_global_ranking_cl_names_below": [
+    "Tainara"
+  ],
+  "passes_accuracy_global_ranking_cl_place": 81,
+  "passes_accuracy_team_ranking_cl_names_tied": [],
+  "passes_accuracy_team_ranking_cl_names_above": [
+    "Denisa Tenkr\u00e1tov\u00e1"
+  ],
+  "passes_accuracy_team_ranking_cl_names_below": [
+    "Olivie Luk\u00e1\u0161ov\u00e1"
+  ],
+  "passes_accuracy_team_ranking_cl_place": 5,
+  "position": "Midfielder",
+  "red_cards_cl": "0",
+  "red_cards_cl_all_seasons": "0",
+  "red_cards_global_ranking_cl_names_tied": [
+    "Janice Cayman",
+    "Mateja Zver",
+    "Vanessa Bernauer"
+  ],
+  "red_cards_global_ranking_cl_names_above": [
+    "Jasmin Eder"
+  ],
+  "red_cards_global_ranking_cl_names_below": [],
+  "red_cards_global_ranking_cl_place": 2,
+  "red_cards_team_ranking_cl_names": [
+    "Marjolen Nekesa Wafula",
+    "Denisa Tenkr\u00e1tov\u00e1",
+    "Alika Keene"
+  ],
+  "red_cards_team_ranking_cl_names_above": [],
+  "red_cards_team_ranking_cl_names_below": [],
+  "red_cards_team_ranking_cl_place": 1,
+  "start_date_club": null,
+  "top_speed_cl": null,
+  "top_speed_cl_all_seasons": null,
+  "top_speed_global_ranking_cl_names_tied": null,
+  "top_speed_global_ranking_cl_names_above": null,
+  "top_speed_global_ranking_cl_names_below": null,
+  "top_speed_global_ranking_cl_place": null,
+  "top_speed_team_ranking_cl_names_tied": null,
+  "top_speed_team_ranking_cl_names_above": null,
+  "top_speed_team_ranking_cl_names_below": null,
+  "top_speed_team_ranking_cl_place": null,
+  "yellow_cards_cl": "3",
+  "yellow_cards_cl_all_seasons": "8",
+  "yellow_cards_global_ranking_cl_names_tied": [
+    "Franny \u010cern\u00e1",
+    "Amanda Ilestedt",
+    "Tereza Ko\u017e\u00e1rov\u00e1"
+  ],
+  "yellow_cards_global_ranking_cl_names_above": [
+    "Jasmin Eder"
+  ],
+  "yellow_cards_global_ranking_cl_names_below": [
+    "Vanessa Bernauer",
+    "Franziska Kett",
+    "Lucia Alves"
+  ],
+  "yellow_cards_global_ranking_cl_place": 2,
+  "yellow_cards_team_ranking_cl_names_tied": [
+    "Franny \u010cern\u00e1",
+    "Tereza Ko\u017e\u00e1rov\u00e1"
+  ],
+  "yellow_cards_team_ranking_cl_names_above": [],
+  "yellow_cards_team_ranking_cl_names_below": [
+    "Martina \u0160urnovsk\u00e1",
+    "Denisa Vesel\u00e1",
+    "Tereza Krej\u010di\u0159\u00edkov\u00e1"
+  ],
+  "yellow_cards_team_ranking_cl_place": 1
 }

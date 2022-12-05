@@ -1,190 +1,190 @@
 {
-    "age": "20",
-    "assists_cl": "0",
-    "assists_cl_all_seasons": "0",
-    "assists_global_ranking_cl_names_above": [
-        "Ivan Rakiti\u0107",
-        "Edin D\u017eeko",
-        "Chiquinho"
-    ],
-    "assists_global_ranking_cl_names_below": [],
-    "assists_global_ranking_cl_names_tied": [
-        "Remko Pasveer",
-        "Simon Mignolet",
-        "Henrikh Mkhitaryan"
-    ],
-    "assists_global_ranking_cl_place": 5,
-    "assists_team_ranking_cl_names_above": [
-        "Chiquinho",
-        "David Neres",
-        "Rafa Silva"
-    ],
-    "assists_team_ranking_cl_names_below": [],
-    "assists_team_ranking_cl_names_tied": [
-        "Lucas Verissimo",
-        "Petar Musa",
-        "Ant\u00f3nio Silva"
-    ],
-    "assists_team_ranking_cl_place": 3,
-    "clubs_scored_cl": [
-        "SL Benfica"
-    ],
-    "competition_code": "UCL",
-    "current_club": "SL Benfica",
-    "current_season": "2023",
-    "fouls_committed_cl": "2",
-    "fouls_committed_cl_all_seasons": "2",
-    "fouls_suffered_cl": "0",
-    "fouls_suffered_cl_all_seasons": "0",
-    "free_kick_cl": "0",
-    "free_kick_cl_all_seasons": "0",
-    "free_kick_global_ranking_cl_names_above": [
-        "Henrikh Mkhitaryan",
-        "Karim Benzema",
-        "Edin D\u017eeko"
-    ],
-    "free_kick_global_ranking_cl_names_below": [],
-    "free_kick_global_ranking_cl_names_tied": [
-        "Arthur Gomes",
-        "Kasper Dolberg",
-        "Fatawu Issahaku"
-    ],
-    "free_kick_global_ranking_cl_place": 24,
-    "free_kick_team_ranking_cl_names_above": [
-        "Chiquinho",
-        "David Neres",
-        "Fredrik Aursnes"
-    ],
-    "free_kick_team_ranking_cl_names_below": [],
-    "free_kick_team_ranking_cl_names_tied": [
-        "Lucas Verissimo",
-        "Petar Musa",
-        "Gon\u00e7alo Ramos"
-    ],
-    "free_kick_team_ranking_cl_place": 8,
-    "gender": "male",
-    "goals_average_cl": 0.4,
-    "goals_average_cl_all_seasons": 0.4,
-    "goals_cl": "2",
-    "goals_cl_all_seasons": "2",
-    "goals_global_ranking_cl_names_above": [
-        "Luka Modri\u0107",
-        "Arthur Gomes",
-        "Ferran Jutgl\u00e0"
-    ],
-    "goals_global_ranking_cl_names_below": [
-        "Remko Pasveer",
-        "Simon Mignolet",
-        "Manuel Neuer"
-    ],
-    "goals_global_ranking_cl_names_tied": [
-        "Henrikh Mkhitaryan",
-        "Abakar Sylla",
-        "Adam Vlkanova"
-    ],
-    "goals_global_ranking_cl_place": 6,
-    "goals_team_ranking_cl_names_above": [
-        "Alejandro Grimaldo"
-    ],
-    "goals_team_ranking_cl_names_below": [
-        "Chiquinho",
-        "Enzo Fernandez",
-        "Lucas Verissimo"
-    ],
-    "goals_team_ranking_cl_names_tied": [
-        "Petar Musa",
-        "Ant\u00f3nio Silva",
-        "Gon\u00e7alo Ramos"
-    ],
-    "goals_team_ranking_cl_place": 3,
-    "matches_appearance_cl": "5",
-    "matches_appearance_cl_all_seasons": "5",
-    "name": "Henrique Ara\u00fajo",
-    "nationality": "Portugal",
-    "passes_accuracy_cl": "79.67",
-    "passes_accuracy_cl_all_seasons": "79.67",
-    "passes_accuracy_global_ranking_cl_names_above": null,
-    "passes_accuracy_global_ranking_cl_names_below": null,
-    "passes_accuracy_global_ranking_cl_names_tied": null,
-    "passes_accuracy_global_ranking_cl_place": null,
-    "passes_accuracy_team_ranking_cl_names_above": null,
-    "passes_accuracy_team_ranking_cl_names_below": null,
-    "passes_accuracy_team_ranking_cl_names_tied": null,
-    "passes_accuracy_team_ranking_cl_place": null,
-    "position": "Forward",
-    "red_cards_cl": "0",
-    "red_cards_cl_all_seasons": "0",
-    "red_cards_global_ranking_cl_names_above": [
-        "Antonio Ad\u00e1n",
-        "James Sands",
-        "Kamal Sowah"
-    ],
-    "red_cards_global_ranking_cl_names_below": [],
-    "red_cards_global_ranking_cl_names_tied": [
-        "Remko Pasveer",
-        "Simon Mignolet",
-        "Henrikh Mkhitaryan"
-    ],
-    "red_cards_global_ranking_cl_place": 2,
-    "red_cards_team_ranking_cl_names": [
-        "Chiquinho",
-        "Enzo Fernandez",
-        "Lucas Verissimo"
-    ],
-    "red_cards_team_ranking_cl_names_above": [],
-    "red_cards_team_ranking_cl_names_below": [],
-    "red_cards_team_ranking_cl_place": 1,
-    "start_date_club": null,
-    "top_speed_cl": "30.3",
-    "top_speed_cl_all_seasons": "30.3",
-    "top_speed_global_ranking_cl_names_above": [
-        "Marko Stamenic",
-        "Mohammad Abu Fani",
-        "Owen Wijndal"
-    ],
-    "top_speed_global_ranking_cl_names_below": [
-        "Mamoudou Karamoko",
-        "Matteo Guendouzi",
-        "Aur\u00e9lien Tchouameni"
-    ],
-    "top_speed_global_ranking_cl_names_tied": [
-        "Steven Davis",
-        "Paul Mukairu",
-        "David Turnbull"
-    ],
-    "top_speed_global_ranking_cl_place": 59,
-    "top_speed_team_ranking_cl_names_above": [
-        "Nicol\u00e1s Otamendi"
-    ],
-    "top_speed_team_ranking_cl_names_below": [
-        "Rodrigo Pinho"
-    ],
-    "top_speed_team_ranking_cl_names_tied": [],
-    "top_speed_team_ranking_cl_place": 12,
-    "yellow_cards_cl": "0",
-    "yellow_cards_cl_all_seasons": "0",
-    "yellow_cards_global_ranking_cl_names_above": [
-        "Henrikh Mkhitaryan",
-        "James Milner",
-        "Minjae Kim"
-    ],
-    "yellow_cards_global_ranking_cl_names_below": [],
-    "yellow_cards_global_ranking_cl_names_tied": [
-        "Remko Pasveer",
-        "Manuel Neuer",
-        "Ivan Rakiti\u0107"
-    ],
-    "yellow_cards_global_ranking_cl_place": 5,
-    "yellow_cards_team_ranking_cl_names_above": [
-        "Alexander Bah",
-        "David Neres",
-        "Gilberto"
-    ],
-    "yellow_cards_team_ranking_cl_names_below": [],
-    "yellow_cards_team_ranking_cl_names_tied": [
-        "Chiquinho",
-        "Lucas Verissimo",
-        "Petar Musa"
-    ],
-    "yellow_cards_team_ranking_cl_place": 4
+  "age": "20",
+  "assists_cl": "0",
+  "assists_cl_all_seasons": "0",
+  "assists_global_ranking_cl_names_tied": [
+    "Remko Pasveer",
+    "Simon Mignolet",
+    "Henrikh Mkhitaryan"
+  ],
+  "assists_global_ranking_cl_names_above": [
+    "Ivan Rakiti\u0107",
+    "Edin D\u017eeko",
+    "Chiquinho"
+  ],
+  "assists_global_ranking_cl_names_below": [],
+  "assists_global_ranking_cl_place": 5,
+  "assists_team_ranking_cl_names_tied": [
+    "Lucas Verissimo",
+    "Petar Musa",
+    "Ant\u00f3nio Silva"
+  ],
+  "assists_team_ranking_cl_names_above": [
+    "Chiquinho",
+    "David Neres",
+    "Rafa Silva"
+  ],
+  "assists_team_ranking_cl_names_below": [],
+  "assists_team_ranking_cl_place": 3,
+  "clubs_scored_cl": [
+    "SL Benfica"
+  ],
+  "competition_code": "UCL",
+  "current_club": "SL Benfica",
+  "current_season": "2023",
+  "fouls_committed_cl": "2",
+  "fouls_committed_cl_all_seasons": "2",
+  "fouls_suffered_cl": "0",
+  "fouls_suffered_cl_all_seasons": "0",
+  "free_kick_cl": "0",
+  "free_kick_cl_all_seasons": "0",
+  "free_kick_global_ranking_cl_names_tied": [
+    "Arthur Gomes",
+    "Kasper Dolberg",
+    "Fatawu Issahaku"
+  ],
+  "free_kick_global_ranking_cl_names_above": [
+    "Henrikh Mkhitaryan",
+    "Karim Benzema",
+    "Edin D\u017eeko"
+  ],
+  "free_kick_global_ranking_cl_names_below": [],
+  "free_kick_global_ranking_cl_place": 24,
+  "free_kick_team_ranking_cl_names_tied": [
+    "Lucas Verissimo",
+    "Petar Musa",
+    "Gon\u00e7alo Ramos"
+  ],
+  "free_kick_team_ranking_cl_names_above": [
+    "Chiquinho",
+    "David Neres",
+    "Fredrik Aursnes"
+  ],
+  "free_kick_team_ranking_cl_names_below": [],
+  "free_kick_team_ranking_cl_place": 8,
+  "gender": "male",
+  "goals_average_cl": 0.4,
+  "goals_average_cl_all_seasons": 0.4,
+  "goals_cl": "2",
+  "goals_cl_all_seasons": "2",
+  "goals_global_ranking_cl_names_tied": [
+    "Henrikh Mkhitaryan",
+    "Abakar Sylla",
+    "Adam Vlkanova"
+  ],
+  "goals_global_ranking_cl_names_above": [
+    "Luka Modri\u0107",
+    "Arthur Gomes",
+    "Ferran Jutgl\u00e0"
+  ],
+  "goals_global_ranking_cl_names_below": [
+    "Remko Pasveer",
+    "Simon Mignolet",
+    "Manuel Neuer"
+  ],
+  "goals_global_ranking_cl_place": 6,
+  "goals_team_ranking_cl_names_tied": [
+    "Petar Musa",
+    "Ant\u00f3nio Silva",
+    "Gon\u00e7alo Ramos"
+  ],
+  "goals_team_ranking_cl_names_above": [
+    "Alejandro Grimaldo"
+  ],
+  "goals_team_ranking_cl_names_below": [
+    "Chiquinho",
+    "Enzo Fernandez",
+    "Lucas Verissimo"
+  ],
+  "goals_team_ranking_cl_place": 3,
+  "matches_appearance_cl": "5",
+  "matches_appearance_cl_all_seasons": "5",
+  "name": "Henrique Ara\u00fajo",
+  "nationality": "Portugal",
+  "passes_accuracy_cl": "79.67",
+  "passes_accuracy_cl_all_seasons": "79.67",
+  "passes_accuracy_global_ranking_cl_names_tied": null,
+  "passes_accuracy_global_ranking_cl_names_above": null,
+  "passes_accuracy_global_ranking_cl_names_below": null,
+  "passes_accuracy_global_ranking_cl_place": null,
+  "passes_accuracy_team_ranking_cl_names_tied": null,
+  "passes_accuracy_team_ranking_cl_names_above": null,
+  "passes_accuracy_team_ranking_cl_names_below": null,
+  "passes_accuracy_team_ranking_cl_place": null,
+  "position": "Forward",
+  "red_cards_cl": "0",
+  "red_cards_cl_all_seasons": "0",
+  "red_cards_global_ranking_cl_names_tied": [
+    "Remko Pasveer",
+    "Simon Mignolet",
+    "Henrikh Mkhitaryan"
+  ],
+  "red_cards_global_ranking_cl_names_above": [
+    "Antonio Ad\u00e1n",
+    "James Sands",
+    "Kamal Sowah"
+  ],
+  "red_cards_global_ranking_cl_names_below": [],
+  "red_cards_global_ranking_cl_place": 2,
+  "red_cards_team_ranking_cl_names": [
+    "Chiquinho",
+    "Enzo Fernandez",
+    "Lucas Verissimo"
+  ],
+  "red_cards_team_ranking_cl_names_above": [],
+  "red_cards_team_ranking_cl_names_below": [],
+  "red_cards_team_ranking_cl_place": 1,
+  "start_date_club": null,
+  "top_speed_cl": "30.3",
+  "top_speed_cl_all_seasons": "30.3",
+  "top_speed_global_ranking_cl_names_tied": [
+    "Steven Davis",
+    "Paul Mukairu",
+    "David Turnbull"
+  ],
+  "top_speed_global_ranking_cl_names_above": [
+    "Marko Stamenic",
+    "Mohammad Abu Fani",
+    "Owen Wijndal"
+  ],
+  "top_speed_global_ranking_cl_names_below": [
+    "Mamoudou Karamoko",
+    "Matteo Guendouzi",
+    "Aur\u00e9lien Tchouameni"
+  ],
+  "top_speed_global_ranking_cl_place": 59,
+  "top_speed_team_ranking_cl_names_tied": [],
+  "top_speed_team_ranking_cl_names_above": [
+    "Nicol\u00e1s Otamendi"
+  ],
+  "top_speed_team_ranking_cl_names_below": [
+    "Rodrigo Pinho"
+  ],
+  "top_speed_team_ranking_cl_place": 12,
+  "yellow_cards_cl": "0",
+  "yellow_cards_cl_all_seasons": "0",
+  "yellow_cards_global_ranking_cl_names_tied": [
+    "Remko Pasveer",
+    "Manuel Neuer",
+    "Ivan Rakiti\u0107"
+  ],
+  "yellow_cards_global_ranking_cl_names_above": [
+    "Henrikh Mkhitaryan",
+    "James Milner",
+    "Minjae Kim"
+  ],
+  "yellow_cards_global_ranking_cl_names_below": [],
+  "yellow_cards_global_ranking_cl_place": 5,
+  "yellow_cards_team_ranking_cl_names_tied": [
+    "Chiquinho",
+    "Lucas Verissimo",
+    "Petar Musa"
+  ],
+  "yellow_cards_team_ranking_cl_names_above": [
+    "Alexander Bah",
+    "David Neres",
+    "Gilberto"
+  ],
+  "yellow_cards_team_ranking_cl_names_below": [],
+  "yellow_cards_team_ranking_cl_place": 4
 }
