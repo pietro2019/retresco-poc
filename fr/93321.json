@@ -1,0 +1,207 @@
+{
+  "age": "34",
+  "assists_cl": "0",
+  "assists_cl_all_seasons": "28",
+  "assists_global_ranking_cl_names_tied": [
+    "Remko Pasveer",
+    "Simon Mignolet",
+    "Henrikh Mkhitaryan"
+  ],
+  "assists_global_ranking_cl_names_above": [
+    "Ivan Rakiti\u0107",
+    "Edin D\u017eeko",
+    "Chiquinho"
+  ],
+  "assists_global_ranking_cl_names_below": [],
+  "assists_global_ranking_cl_place": 5,
+  "assists_team_ranking_cl_names_tied": [
+    "Luka Modri\u0107",
+    "Eduardo Camavinga",
+    "\u00c9der Milit\u00e3o"
+  ],
+  "assists_team_ranking_cl_names_above": [
+    "Rodrygo",
+    "Vin\u00edcius J\u00fanior",
+    "Marco Asensio"
+  ],
+  "assists_team_ranking_cl_names_below": [],
+  "assists_team_ranking_cl_place": 3,
+  "clubs_scored_cl": [
+    "Olympique Lyonnais",
+    "Real Madrid CF"
+  ],
+  "competition_code": "UCL",
+  "current_club": "Real Madrid CF",
+  "current_season": "2023",
+  "fouls_committed_cl": "2",
+  "fouls_committed_cl_all_seasons": "75",
+  "fouls_suffered_cl": "0",
+  "fouls_suffered_cl_all_seasons": "86",
+  "free_kick_cl": "1",
+  "free_kick_cl_all_seasons": "9",
+  "free_kick_global_ranking_cl_names_tied": [
+    "Henrikh Mkhitaryan",
+    "Edin D\u017eeko",
+    "Jes\u00fas Navas"
+  ],
+  "free_kick_global_ranking_cl_names_above": [
+    "James Milner",
+    "Steven Davis",
+    "Federico Gatti"
+  ],
+  "free_kick_global_ranking_cl_names_below": [
+    "Arthur Gomes",
+    "Kasper Dolberg",
+    "Fatawu Issahaku"
+  ],
+  "free_kick_global_ranking_cl_place": 23,
+  "free_kick_team_ranking_cl_names_tied": [
+    "Vin\u00edcius J\u00fanior",
+    "Ferland Mendy",
+    "Federico Valverde"
+  ],
+  "free_kick_team_ranking_cl_names_above": [
+    "Eduardo Camavinga",
+    "Marco Asensio",
+    "Thibaut Courtois"
+  ],
+  "free_kick_team_ranking_cl_names_below": [
+    "Mariano D\u00edaz",
+    "Andriy Lunin",
+    "Dani Ceballos"
+  ],
+  "free_kick_team_ranking_cl_place": 7,
+  "gender": "male",
+  "goals_average_cl": 0.0,
+  "goals_average_cl_all_seasons": 0.6,
+  "goals_cl": "0",
+  "goals_cl_all_seasons": "86",
+  "goals_global_ranking_cl_names_tied": [
+    "Remko Pasveer",
+    "Simon Mignolet",
+    "Manuel Neuer"
+  ],
+  "goals_global_ranking_cl_names_above": [
+    "Henrikh Mkhitaryan",
+    "Abakar Sylla",
+    "Adam Vlkanova"
+  ],
+  "goals_global_ranking_cl_names_below": [],
+  "goals_global_ranking_cl_place": 7,
+  "goals_team_ranking_cl_names_tied": [
+    "Eduardo Camavinga",
+    "\u00c9der Milit\u00e3o",
+    "Ferland Mendy"
+  ],
+  "goals_team_ranking_cl_names_above": [
+    "Antonio R\u00fcdiger",
+    "Eden Hazard"
+  ],
+  "goals_team_ranking_cl_names_below": [],
+  "goals_team_ranking_cl_place": 5,
+  "matches_appearance_cl": "4",
+  "matches_appearance_cl_all_seasons": "146",
+  "name": "Karim Benzema",
+  "nationality": "France",
+  "passes_accuracy_cl": "87.25",
+  "passes_accuracy_cl_all_seasons": "84.45",
+  "passes_accuracy_global_ranking_cl_names_tied": [
+    "Mats Hummels"
+  ],
+  "passes_accuracy_global_ranking_cl_names_above": [
+    "Yukhym Konoplia",
+    "Mitchel Bakker",
+    "Manuel Locatelli"
+  ],
+  "passes_accuracy_global_ranking_cl_names_below": [
+    "Lionel Messi",
+    "Danilo",
+    "Ali Mohamed"
+  ],
+  "passes_accuracy_global_ranking_cl_place": 83,
+  "passes_accuracy_team_ranking_cl_names_tied": [],
+  "passes_accuracy_team_ranking_cl_names_above": [
+    "Rodrygo"
+  ],
+  "passes_accuracy_team_ranking_cl_names_below": [
+    "Federico Valverde",
+    "Dani Carvajal"
+  ],
+  "passes_accuracy_team_ranking_cl_place": 13,
+  "position": "Attaquant",
+  "red_cards_cl": "0",
+  "red_cards_cl_all_seasons": "0",
+  "red_cards_global_ranking_cl_names_tied": [
+    "Remko Pasveer",
+    "Simon Mignolet",
+    "Henrikh Mkhitaryan"
+  ],
+  "red_cards_global_ranking_cl_names_above": [
+    "Antonio Ad\u00e1n",
+    "James Sands",
+    "Kamal Sowah"
+  ],
+  "red_cards_global_ranking_cl_names_below": [],
+  "red_cards_global_ranking_cl_place": 2,
+  "red_cards_team_ranking_cl_names": [
+    "Luka Modri\u0107",
+    "Rodrygo",
+    "Eduardo Camavinga"
+  ],
+  "red_cards_team_ranking_cl_names_above": [],
+  "red_cards_team_ranking_cl_names_below": [],
+  "red_cards_team_ranking_cl_place": 1,
+  "start_date_club": "2010",
+  "top_speed_cl": "32",
+  "top_speed_cl_all_seasons": "32.21",
+  "top_speed_global_ranking_cl_names_tied": [
+    "Jes\u00fas Navas",
+    "Mohamed Tijani",
+    "Mat\u00ecas Soul\u00e8"
+  ],
+  "top_speed_global_ranking_cl_names_above": [
+    "Kike Salas",
+    "Youssoufa Moukoko",
+    "Fabio Carvalho"
+  ],
+  "top_speed_global_ranking_cl_names_below": [
+    "Mateus",
+    "Hrvoje Smol\u010di\u0107",
+    "\u00cdsak Bergmann Johannesson"
+  ],
+  "top_speed_global_ranking_cl_place": 42,
+  "top_speed_team_ranking_cl_names_tied": [],
+  "top_speed_team_ranking_cl_names_above": [
+    "Dani Carvajal"
+  ],
+  "top_speed_team_ranking_cl_names_below": [
+    "Eduardo Camavinga"
+  ],
+  "top_speed_team_ranking_cl_place": 12,
+  "yellow_cards_cl": "0",
+  "yellow_cards_cl_all_seasons": "3",
+  "yellow_cards_global_ranking_cl_names_tied": [
+    "Remko Pasveer",
+    "Manuel Neuer",
+    "Ivan Rakiti\u0107"
+  ],
+  "yellow_cards_global_ranking_cl_names_above": [
+    "Henrikh Mkhitaryan",
+    "James Milner",
+    "Minjae Kim"
+  ],
+  "yellow_cards_global_ranking_cl_names_below": [],
+  "yellow_cards_global_ranking_cl_place": 5,
+  "yellow_cards_team_ranking_cl_names_tied": [
+    "Luka Modri\u0107",
+    "Rodrygo",
+    "Eduardo Camavinga"
+  ],
+  "yellow_cards_team_ranking_cl_names_above": [
+    "Ferland Mendy",
+    "Lucas V\u00e1zquez",
+    "Dani Carvajal"
+  ],
+  "yellow_cards_team_ranking_cl_names_below": [],
+  "yellow_cards_team_ranking_cl_place": 2
+}
