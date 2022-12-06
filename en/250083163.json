@@ -1,0 +1,185 @@
+{
+  "age": "30",
+  "assists_cl": "1",
+  "assists_cl_all_seasons": "4",
+  "assists_global_ranking_cl_names_tied": [
+    "Rita Schumacher",
+    "Ana Vit\u00f3ria",
+    "Clo\u00e9 Lacasse"
+  ],
+  "assists_global_ranking_cl_names_above": [
+    "Melvine Malard",
+    "Cl\u00e0udia Pina",
+    "Asisat Oshoala"
+  ],
+  "assists_global_ranking_cl_names_below": [
+    "Janice Cayman",
+    "Mateja Zver",
+    "Vanessa Bernauer"
+  ],
+  "assists_global_ranking_cl_place": 4,
+  "assists_team_ranking_cl_names_tied": [
+    "Manuela Giugliano",
+    "Paloma L\u00e1zaro",
+    "Emilie Haavi"
+  ],
+  "assists_team_ranking_cl_names_above": [],
+  "assists_team_ranking_cl_names_below": [
+    "Emma Lind",
+    "Moeka Minami",
+    "Sophie Haug"
+  ],
+  "assists_team_ranking_cl_place": 1,
+  "clubs_scored_cl": [
+    "AS Roma",
+    "FC Barcelona"
+  ],
+  "competition_code": "UWCL",
+  "current_club": "AS Roma",
+  "current_season": "2023",
+  "fouls_committed_cl": "11",
+  "fouls_committed_cl_all_seasons": "20",
+  "fouls_suffered_cl": "13",
+  "fouls_suffered_cl_all_seasons": "35",
+  "free_kick_cl": "9",
+  "free_kick_cl_all_seasons": "9",
+  "free_kick_global_ranking_cl_names_tied": [
+    "Lourdes Romero",
+    "Alice Sombath",
+    "Ana Sei\u00e7a"
+  ],
+  "free_kick_global_ranking_cl_names_above": [
+    "Pauleta",
+    "Julia Stierli",
+    "Irene Paredes"
+  ],
+  "free_kick_global_ranking_cl_names_below": [
+    "Moeka Minami",
+    "Rute Costa",
+    "Georgia Stanway"
+  ],
+  "free_kick_global_ranking_cl_place": 9,
+  "free_kick_team_ranking_cl_names_tied": [],
+  "free_kick_team_ranking_cl_names_above": [
+    "Carina Wenninger"
+  ],
+  "free_kick_team_ranking_cl_names_below": [
+    "Moeka Minami",
+    "Elena Linari"
+  ],
+  "free_kick_team_ranking_cl_place": 3,
+  "gender": "female",
+  "goals_average_cl": 0.1,
+  "goals_average_cl_all_seasons": 0.2,
+  "goals_cl": "1",
+  "goals_cl_all_seasons": "5",
+  "goals_global_ranking_cl_names_tied": [
+    "Janice Cayman",
+    "Mateja Zver",
+    "Vanessa Bernauer"
+  ],
+  "goals_global_ranking_cl_names_above": [
+    "Rita Schumacher",
+    "Magnaba Folquet",
+    "Nycole Raysla"
+  ],
+  "goals_global_ranking_cl_names_below": [],
+  "goals_global_ranking_cl_place": 5,
+  "goals_team_ranking_cl_names_tied": [
+    "Emma Lind",
+    "Moeka Minami",
+    "Sophie Haug"
+  ],
+  "goals_team_ranking_cl_names_above": [
+    "Manuela Giugliano",
+    "Elena Linari",
+    "Paloma L\u00e1zaro"
+  ],
+  "goals_team_ranking_cl_names_below": [],
+  "goals_team_ranking_cl_place": 3,
+  "matches_appearance_cl": "7",
+  "matches_appearance_cl_all_seasons": "24",
+  "name": "Andressa Alves",
+  "nationality": "Brazil",
+  "passes_accuracy_cl": "73",
+  "passes_accuracy_cl_all_seasons": "73",
+  "passes_accuracy_global_ranking_cl_names_tied": [
+    "Kenti Robles",
+    "Stefanie Enzinger",
+    "Katelin Talbert"
+  ],
+  "passes_accuracy_global_ranking_cl_names_above": [
+    "Val\u00e9ria Silva"
+  ],
+  "passes_accuracy_global_ranking_cl_names_below": [
+    "Marion Rey",
+    "Diana Leme\u0161ov\u00e1"
+  ],
+  "passes_accuracy_global_ranking_cl_place": 69,
+  "passes_accuracy_team_ranking_cl_names_tied": [],
+  "passes_accuracy_team_ranking_cl_names_above": [
+    "Carina Wenninger"
+  ],
+  "passes_accuracy_team_ranking_cl_names_below": [
+    "Sophie Haug"
+  ],
+  "passes_accuracy_team_ranking_cl_place": 7,
+  "position": "Midfielder",
+  "red_cards_cl": "0",
+  "red_cards_cl_all_seasons": "0",
+  "red_cards_global_ranking_cl_names_tied": [
+    "Janice Cayman",
+    "Mateja Zver",
+    "Vanessa Bernauer"
+  ],
+  "red_cards_global_ranking_cl_names_above": [
+    "Jasmin Eder"
+  ],
+  "red_cards_global_ranking_cl_names_below": [],
+  "red_cards_global_ranking_cl_place": 2,
+  "red_cards_team_ranking_cl_names": [
+    "Emma Lind",
+    "Moeka Minami",
+    "Sophie Haug"
+  ],
+  "red_cards_team_ranking_cl_names_above": [],
+  "red_cards_team_ranking_cl_names_below": [],
+  "red_cards_team_ranking_cl_place": 1,
+  "start_date_club": null,
+  "top_speed_cl": null,
+  "top_speed_cl_all_seasons": null,
+  "top_speed_global_ranking_cl_names_tied": null,
+  "top_speed_global_ranking_cl_names_above": null,
+  "top_speed_global_ranking_cl_names_below": null,
+  "top_speed_global_ranking_cl_place": null,
+  "top_speed_team_ranking_cl_names_tied": null,
+  "top_speed_team_ranking_cl_names_above": null,
+  "top_speed_team_ranking_cl_names_below": null,
+  "top_speed_team_ranking_cl_place": null,
+  "yellow_cards_cl": "0",
+  "yellow_cards_cl_all_seasons": "1",
+  "yellow_cards_global_ranking_cl_names_tied": [
+    "Janice Cayman",
+    "Mateja Zver",
+    "Linda Sembrant"
+  ],
+  "yellow_cards_global_ranking_cl_names_above": [
+    "Vanessa Bernauer",
+    "Franziska Kett",
+    "Lucia Alves"
+  ],
+  "yellow_cards_global_ranking_cl_names_below": [],
+  "yellow_cards_global_ranking_cl_place": 4,
+  "yellow_cards_team_ranking_cl_names_tied": [
+    "Emma Lind",
+    "Moeka Minami",
+    "Benedetta Glionna"
+  ],
+  "yellow_cards_team_ranking_cl_names_above": [
+    "Sophie Haug",
+    "Paloma L\u00e1zaro",
+    "Elisa Bartoli"
+  ],
+  "yellow_cards_team_ranking_cl_names_below": [],
+  "yellow_cards_team_ranking_cl_place": 2
+}

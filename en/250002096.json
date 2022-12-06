@@ -1,0 +1,199 @@
+{
+  "age": "34",
+  "assists_cl": "0",
+  "assists_cl_all_seasons": "22",
+  "assists_global_ranking_cl_names_tied": [
+    "Remko Pasveer",
+    "Simon Mignolet",
+    "Henrikh Mkhitaryan"
+  ],
+  "assists_global_ranking_cl_names_above": [
+    "Ivan Rakiti\u0107",
+    "Edin D\u017eeko",
+    "Chiquinho"
+  ],
+  "assists_global_ranking_cl_names_below": [],
+  "assists_global_ranking_cl_place": 5,
+  "assists_team_ranking_cl_names_tied": [
+    "Gerard Piqu\u00e9",
+    "Pablo Torre",
+    "Pedri"
+  ],
+  "assists_team_ranking_cl_names_above": [
+    "Ansu Fati",
+    "Eric Garc\u00eda",
+    "Jules Kound\u00e9"
+  ],
+  "assists_team_ranking_cl_names_below": [],
+  "assists_team_ranking_cl_place": 3,
+  "clubs_scored_cl": [
+    "Borussia Dortmund",
+    "FC Barcelona",
+    "FC Bayern M\u00fcnchen"
+  ],
+  "competition_code": "UCL",
+  "current_club": "FC Barcelona",
+  "current_season": "2023",
+  "fouls_committed_cl": "5",
+  "fouls_committed_cl_all_seasons": "170",
+  "fouls_suffered_cl": "10",
+  "fouls_suffered_cl_all_seasons": "189",
+  "free_kick_cl": "2",
+  "free_kick_cl_all_seasons": "17",
+  "free_kick_global_ranking_cl_names_tied": [
+    "James Milner",
+    "Steven Davis",
+    "Federico Gatti"
+  ],
+  "free_kick_global_ranking_cl_names_above": [
+    "Tajon Buchanan",
+    "Marko Stamenic",
+    "Ben Davies"
+  ],
+  "free_kick_global_ranking_cl_names_below": [
+    "Henrikh Mkhitaryan",
+    "Karim Benzema",
+    "Edin D\u017eeko"
+  ],
+  "free_kick_global_ranking_cl_place": 22,
+  "free_kick_team_ranking_cl_names_tied": [
+    "Pedri",
+    "Gavi",
+    "Alejandro Balde"
+  ],
+  "free_kick_team_ranking_cl_names_above": [
+    "Ronald Ara\u00fajo"
+  ],
+  "free_kick_team_ranking_cl_names_below": [
+    "Ansu Fati",
+    "Eric Garc\u00eda",
+    "I\u00f1aki Pe\u00f1a"
+  ],
+  "free_kick_team_ranking_cl_place": 10,
+  "gender": "male",
+  "goals_average_cl": 1.0,
+  "goals_average_cl_all_seasons": 0.8,
+  "goals_cl": "5",
+  "goals_cl_all_seasons": "91",
+  "goals_global_ranking_cl_names_tied": [
+    "Erling Haaland",
+    "Mehdi Taremi"
+  ],
+  "goals_global_ranking_cl_names_above": [
+    "Kylian Mbapp\u00e9",
+    "Mohamed Salah"
+  ],
+  "goals_global_ranking_cl_names_below": [
+    "Lionel Messi",
+    "Giovanni Simeone",
+    "Jude Bellingham"
+  ],
+  "goals_global_ranking_cl_place": 2,
+  "goals_team_ranking_cl_names_tied": [],
+  "goals_team_ranking_cl_names_above": [],
+  "goals_team_ranking_cl_names_below": [
+    "Ferran Torres"
+  ],
+  "goals_team_ranking_cl_place": 1,
+  "matches_appearance_cl": "5",
+  "matches_appearance_cl_all_seasons": "111",
+  "name": "Robert Lewandowski",
+  "nationality": "Poland",
+  "passes_accuracy_cl": "73.8",
+  "passes_accuracy_cl_all_seasons": "77.45",
+  "passes_accuracy_global_ranking_cl_names_tied": [
+    "Kepa Arrizabalaga"
+  ],
+  "passes_accuracy_global_ranking_cl_names_above": [
+    "Galeno"
+  ],
+  "passes_accuracy_global_ranking_cl_names_below": [
+    "Rafael Borr\u00e9"
+  ],
+  "passes_accuracy_global_ranking_cl_place": 207,
+  "passes_accuracy_team_ranking_cl_names_tied": [],
+  "passes_accuracy_team_ranking_cl_names_above": [
+    "Raphinha"
+  ],
+  "passes_accuracy_team_ranking_cl_names_below": [],
+  "passes_accuracy_team_ranking_cl_place": 18,
+  "position": "Forward",
+  "red_cards_cl": "0",
+  "red_cards_cl_all_seasons": "0",
+  "red_cards_global_ranking_cl_names_tied": [
+    "Remko Pasveer",
+    "Simon Mignolet",
+    "Henrikh Mkhitaryan"
+  ],
+  "red_cards_global_ranking_cl_names_above": [
+    "Antonio Ad\u00e1n",
+    "James Sands",
+    "Kamal Sowah"
+  ],
+  "red_cards_global_ranking_cl_names_below": [],
+  "red_cards_global_ranking_cl_place": 2,
+  "red_cards_team_ranking_cl_names": [
+    "Gerard Piqu\u00e9",
+    "Pablo Torre",
+    "Pedri"
+  ],
+  "red_cards_team_ranking_cl_names_above": [],
+  "red_cards_team_ranking_cl_names_below": [],
+  "red_cards_team_ranking_cl_place": 1,
+  "start_date_club": "2023",
+  "top_speed_cl": "32.8",
+  "top_speed_cl_all_seasons": "32.9",
+  "top_speed_global_ranking_cl_names_tied": [
+    "Gonzalo Montiel",
+    "Kyogo Furuhashi",
+    "Hidemasa Morita"
+  ],
+  "top_speed_global_ranking_cl_names_above": [
+    "Amar Dedi\u0107",
+    "Tanguy Nianzou",
+    "Luka Ivanu\u0161ec"
+  ],
+  "top_speed_global_ranking_cl_names_below": [
+    "Juli\u00e1n \u00c1lvarez",
+    "Issa Kabor\u00e9",
+    "Gon\u00e7alo In\u00e1cio"
+  ],
+  "top_speed_global_ranking_cl_place": 34,
+  "top_speed_team_ranking_cl_names_tied": [
+    "Franck Kessie"
+  ],
+  "top_speed_team_ranking_cl_names_above": [
+    "H\u00e9ctor Beller\u00edn"
+  ],
+  "top_speed_team_ranking_cl_names_below": [
+    "Marcos Alonso",
+    "Jordi Alba"
+  ],
+  "top_speed_team_ranking_cl_place": 4,
+  "yellow_cards_cl": "0",
+  "yellow_cards_cl_all_seasons": "10",
+  "yellow_cards_global_ranking_cl_names_tied": [
+    "Remko Pasveer",
+    "Manuel Neuer",
+    "Ivan Rakiti\u0107"
+  ],
+  "yellow_cards_global_ranking_cl_names_above": [
+    "Henrikh Mkhitaryan",
+    "James Milner",
+    "Minjae Kim"
+  ],
+  "yellow_cards_global_ranking_cl_names_below": [],
+  "yellow_cards_global_ranking_cl_place": 5,
+  "yellow_cards_team_ranking_cl_names_tied": [
+    "Gerard Piqu\u00e9",
+    "Pedri",
+    "Alejandro Balde"
+  ],
+  "yellow_cards_team_ranking_cl_names_above": [
+    "Pablo Torre",
+    "Ferran Torres",
+    "Ousmane Demb\u00e9l\u00e9"
+  ],
+  "yellow_cards_team_ranking_cl_names_below": [],
+  "yellow_cards_team_ranking_cl_place": 4
+}

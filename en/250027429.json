@@ -1,0 +1,178 @@
+{
+  "age": "26",
+  "assists_cl": "1",
+  "assists_cl_all_seasons": "6",
+  "assists_global_ranking_cl_names_tied": [
+    "Rita Schumacher",
+    "Ana Vit\u00f3ria",
+    "Clo\u00e9 Lacasse"
+  ],
+  "assists_global_ranking_cl_names_above": [
+    "Melvine Malard",
+    "Cl\u00e0udia Pina",
+    "Asisat Oshoala"
+  ],
+  "assists_global_ranking_cl_names_below": [
+    "Janice Cayman",
+    "Mateja Zver",
+    "Vanessa Bernauer"
+  ],
+  "assists_global_ranking_cl_place": 4,
+  "assists_team_ranking_cl_names_tied": [
+    "Jule Brand",
+    "Sveind\u00eds J\u00f3nsd\u00f3ttir",
+    "Joelle Wedemeyer"
+  ],
+  "assists_team_ranking_cl_names_above": [
+    "Svenja Huth"
+  ],
+  "assists_team_ranking_cl_names_below": [
+    "Tabea Wassmuth",
+    "Lena Lattwein",
+    "Lena Oberdorf"
+  ],
+  "assists_team_ranking_cl_place": 2,
+  "clubs_scored_cl": [
+    "KKPK Medyk Konin",
+    "VfL Wolfsburg"
+  ],
+  "competition_code": "UWCL",
+  "current_club": "VfL Wolfsburg",
+  "current_season": "2023",
+  "fouls_committed_cl": "1",
+  "fouls_committed_cl_all_seasons": "26",
+  "fouls_suffered_cl": "1",
+  "fouls_suffered_cl_all_seasons": "32",
+  "free_kick_cl": "0",
+  "free_kick_cl_all_seasons": "0",
+  "free_kick_global_ranking_cl_names_tied": [
+    "Janice Cayman",
+    "Isabelle Meyer",
+    "Maria Bashka"
+  ],
+  "free_kick_global_ranking_cl_names_above": [
+    "Lainie Fuchs",
+    "Athinna Persson",
+    "Agnese Bonfantini"
+  ],
+  "free_kick_global_ranking_cl_names_below": [],
+  "free_kick_global_ranking_cl_place": 16,
+  "free_kick_team_ranking_cl_names_tied": [
+    "Tabea Wassmuth",
+    "Lena Lattwein",
+    "Jule Brand"
+  ],
+  "free_kick_team_ranking_cl_names_above": [
+    "Lena Oberdorf",
+    "Jill Roord",
+    "Kristin Demann"
+  ],
+  "free_kick_team_ranking_cl_names_below": [],
+  "free_kick_team_ranking_cl_place": 5,
+  "gender": "female",
+  "goals_average_cl": 1.3,
+  "goals_average_cl_all_seasons": 0.5,
+  "goals_cl": "4",
+  "goals_cl_all_seasons": "22",
+  "goals_global_ranking_cl_names_tied": [
+    "Aitana Bonmat\u00ed",
+    "Samantha Kerr"
+  ],
+  "goals_global_ranking_cl_names_above": [],
+  "goals_global_ranking_cl_names_below": [
+    "Geyse",
+    "Mariona Caldentey",
+    "Valentina Giacinti"
+  ],
+  "goals_global_ranking_cl_place": 1,
+  "goals_team_ranking_cl_names_tied": [],
+  "goals_team_ranking_cl_names_above": [],
+  "goals_team_ranking_cl_names_below": [
+    "Lena Lattwein",
+    "Jule Brand",
+    "Jill Roord"
+  ],
+  "goals_team_ranking_cl_place": 1,
+  "matches_appearance_cl": "3",
+  "matches_appearance_cl_all_seasons": "41",
+  "name": "Ewa Pajor",
+  "nationality": "Poland",
+  "passes_accuracy_cl": "66.34",
+  "passes_accuracy_cl_all_seasons": "68.72",
+  "passes_accuracy_global_ranking_cl_names_tied": [],
+  "passes_accuracy_global_ranking_cl_names_above": [
+    "Leonarda Balog",
+    "Meghan Cavanaugh",
+    "Loreta Kullashi"
+  ],
+  "passes_accuracy_global_ranking_cl_names_below": [
+    "Aleksandra Popovi\u0107"
+  ],
+  "passes_accuracy_global_ranking_cl_place": 88,
+  "passes_accuracy_team_ranking_cl_names_tied": [],
+  "passes_accuracy_team_ranking_cl_names_above": [
+    "Alexandra Popp"
+  ],
+  "passes_accuracy_team_ranking_cl_names_below": [
+    "Sveind\u00eds J\u00f3nsd\u00f3ttir"
+  ],
+  "passes_accuracy_team_ranking_cl_place": 12,
+  "position": "Forward",
+  "red_cards_cl": "0",
+  "red_cards_cl_all_seasons": "0",
+  "red_cards_global_ranking_cl_names_tied": [
+    "Janice Cayman",
+    "Mateja Zver",
+    "Vanessa Bernauer"
+  ],
+  "red_cards_global_ranking_cl_names_above": [
+    "Jasmin Eder"
+  ],
+  "red_cards_global_ranking_cl_names_below": [],
+  "red_cards_global_ranking_cl_place": 2,
+  "red_cards_team_ranking_cl_names": [
+    "Tabea Wassmuth",
+    "Lena Lattwein",
+    "Jule Brand"
+  ],
+  "red_cards_team_ranking_cl_names_above": [],
+  "red_cards_team_ranking_cl_names_below": [],
+  "red_cards_team_ranking_cl_place": 1,
+  "start_date_club": "2016",
+  "top_speed_cl": null,
+  "top_speed_cl_all_seasons": "30.7",
+  "top_speed_global_ranking_cl_names_tied": null,
+  "top_speed_global_ranking_cl_names_above": null,
+  "top_speed_global_ranking_cl_names_below": null,
+  "top_speed_global_ranking_cl_place": null,
+  "top_speed_team_ranking_cl_names_tied": null,
+  "top_speed_team_ranking_cl_names_above": null,
+  "top_speed_team_ranking_cl_names_below": null,
+  "top_speed_team_ranking_cl_place": null,
+  "yellow_cards_cl": "0",
+  "yellow_cards_cl_all_seasons": "1",
+  "yellow_cards_global_ranking_cl_names_tied": [
+    "Janice Cayman",
+    "Mateja Zver",
+    "Linda Sembrant"
+  ],
+  "yellow_cards_global_ranking_cl_names_above": [
+    "Vanessa Bernauer",
+    "Franziska Kett",
+    "Lucia Alves"
+  ],
+  "yellow_cards_global_ranking_cl_names_below": [],
+  "yellow_cards_global_ranking_cl_place": 4,
+  "yellow_cards_team_ranking_cl_names_tied": [
+    "Tabea Wassmuth",
+    "Jule Brand",
+    "Lena Oberdorf"
+  ],
+  "yellow_cards_team_ranking_cl_names_above": [
+    "Lena Lattwein",
+    "Jill Roord",
+    "Dominique Janssen"
+  ],
+  "yellow_cards_team_ranking_cl_names_below": [],
+  "yellow_cards_team_ranking_cl_place": 2
+}

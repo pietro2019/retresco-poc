@@ -1,0 +1,186 @@
+{
+  "age": "21",
+  "assists_cl": "0",
+  "assists_cl_all_seasons": "0",
+  "assists_global_ranking_cl_names_tied": [
+    "Remko Pasveer",
+    "Simon Mignolet",
+    "Henrikh Mkhitaryan"
+  ],
+  "assists_global_ranking_cl_names_above": [
+    "Ivan Rakiti\u0107",
+    "Edin D\u017eeko",
+    "Chiquinho"
+  ],
+  "assists_global_ranking_cl_names_below": [],
+  "assists_global_ranking_cl_place": 5,
+  "assists_team_ranking_cl_names_tied": [
+    "Robert Ljubi\u010di\u0107",
+    "Martin Baturina",
+    "Sadegh Moharrami"
+  ],
+  "assists_team_ranking_cl_names_above": [
+    "Bruno Petkovi\u0107"
+  ],
+  "assists_team_ranking_cl_names_below": [],
+  "assists_team_ranking_cl_place": 2,
+  "clubs_scored_cl": [],
+  "competition_code": "UCL",
+  "current_club": "GNK Dinamo Zagreb",
+  "current_season": "2023",
+  "fouls_committed_cl": "0",
+  "fouls_committed_cl_all_seasons": "0",
+  "fouls_suffered_cl": "0",
+  "fouls_suffered_cl_all_seasons": "0",
+  "free_kick_cl": "1",
+  "free_kick_cl_all_seasons": "1",
+  "free_kick_global_ranking_cl_names_tied": [
+    "Henrikh Mkhitaryan",
+    "Karim Benzema",
+    "Edin D\u017eeko"
+  ],
+  "free_kick_global_ranking_cl_names_above": [
+    "James Milner",
+    "Steven Davis",
+    "Federico Gatti"
+  ],
+  "free_kick_global_ranking_cl_names_below": [
+    "Arthur Gomes",
+    "Kasper Dolberg",
+    "Fatawu Issahaku"
+  ],
+  "free_kick_global_ranking_cl_place": 23,
+  "free_kick_team_ranking_cl_names_tied": [
+    "Martin Baturina",
+    "Bruno Petkovi\u0107"
+  ],
+  "free_kick_team_ranking_cl_names_above": [
+    "Sadegh Moharrami",
+    "Petar Bo\u010dkaj",
+    "Arijan Ademi"
+  ],
+  "free_kick_team_ranking_cl_names_below": [
+    "Antonio Marin",
+    "Luka Ivanu\u0161ec",
+    "Dario \u0160piki\u0107"
+  ],
+  "free_kick_team_ranking_cl_place": 9,
+  "gender": "male",
+  "goals_average_cl": 0.0,
+  "goals_average_cl_all_seasons": 0.0,
+  "goals_cl": "0",
+  "goals_cl_all_seasons": "0",
+  "goals_global_ranking_cl_names_tied": [
+    "Remko Pasveer",
+    "Simon Mignolet",
+    "Manuel Neuer"
+  ],
+  "goals_global_ranking_cl_names_above": [
+    "Henrikh Mkhitaryan",
+    "Abakar Sylla",
+    "Adam Vlkanova"
+  ],
+  "goals_global_ranking_cl_names_below": [],
+  "goals_global_ranking_cl_place": 7,
+  "goals_team_ranking_cl_names_tied": [
+    "Martin Baturina",
+    "Sadegh Moharrami",
+    "Josip \u0160utalo"
+  ],
+  "goals_team_ranking_cl_names_above": [
+    "Robert Ljubi\u010di\u0107",
+    "Bruno Petkovi\u0107"
+  ],
+  "goals_team_ranking_cl_names_below": [],
+  "goals_team_ranking_cl_place": 3,
+  "matches_appearance_cl": "3",
+  "matches_appearance_cl_all_seasons": "4",
+  "name": "Marko Bulat",
+  "nationality": "Croatia",
+  "passes_accuracy_cl": "82",
+  "passes_accuracy_cl_all_seasons": "82",
+  "passes_accuracy_global_ranking_cl_names_tied": null,
+  "passes_accuracy_global_ranking_cl_names_above": null,
+  "passes_accuracy_global_ranking_cl_names_below": null,
+  "passes_accuracy_global_ranking_cl_place": null,
+  "passes_accuracy_team_ranking_cl_names_tied": null,
+  "passes_accuracy_team_ranking_cl_names_above": null,
+  "passes_accuracy_team_ranking_cl_names_below": null,
+  "passes_accuracy_team_ranking_cl_place": null,
+  "position": "Midfielder",
+  "red_cards_cl": "0",
+  "red_cards_cl_all_seasons": "0",
+  "red_cards_global_ranking_cl_names_tied": [
+    "Remko Pasveer",
+    "Simon Mignolet",
+    "Henrikh Mkhitaryan"
+  ],
+  "red_cards_global_ranking_cl_names_above": [
+    "Antonio Ad\u00e1n",
+    "James Sands",
+    "Kamal Sowah"
+  ],
+  "red_cards_global_ranking_cl_names_below": [],
+  "red_cards_global_ranking_cl_place": 2,
+  "red_cards_team_ranking_cl_names": [
+    "Robert Ljubi\u010di\u0107",
+    "Martin Baturina",
+    "Sadegh Moharrami"
+  ],
+  "red_cards_team_ranking_cl_names_above": [],
+  "red_cards_team_ranking_cl_names_below": [],
+  "red_cards_team_ranking_cl_place": 1,
+  "start_date_club": null,
+  "top_speed_cl": "33.3",
+  "top_speed_cl_all_seasons": "33.3",
+  "top_speed_global_ranking_cl_names_tied": [
+    "Kamal Sowah",
+    "Jo\u0161ko Gvardiol",
+    "Jamal Musiala"
+  ],
+  "top_speed_global_ranking_cl_names_above": [
+    "Gon\u00e7alo Ramos",
+    "Junior Adamu",
+    "David Neres"
+  ],
+  "top_speed_global_ranking_cl_names_below": [
+    "Giovanni Simeone",
+    "Jonathan Clauss",
+    "Cristian Romero"
+  ],
+  "top_speed_global_ranking_cl_place": 29,
+  "top_speed_team_ranking_cl_names_tied": [],
+  "top_speed_team_ranking_cl_names_above": [
+    "Dario \u0160piki\u0107"
+  ],
+  "top_speed_team_ranking_cl_names_below": [
+    "Mislav Or\u0161i\u0107"
+  ],
+  "top_speed_team_ranking_cl_place": 4,
+  "yellow_cards_cl": "0",
+  "yellow_cards_cl_all_seasons": "0",
+  "yellow_cards_global_ranking_cl_names_tied": [
+    "Remko Pasveer",
+    "Manuel Neuer",
+    "Ivan Rakiti\u0107"
+  ],
+  "yellow_cards_global_ranking_cl_names_above": [
+    "Henrikh Mkhitaryan",
+    "James Milner",
+    "Minjae Kim"
+  ],
+  "yellow_cards_global_ranking_cl_names_below": [],
+  "yellow_cards_global_ranking_cl_place": 5,
+  "yellow_cards_team_ranking_cl_names_tied": [
+    "Josip \u0160utalo",
+    "Petar Bo\u010dkaj",
+    "Dario \u0160piki\u0107"
+  ],
+  "yellow_cards_team_ranking_cl_names_above": [
+    "Robert Ljubi\u010di\u0107",
+    "Martin Baturina",
+    "Antonio Marin"
+  ],
+  "yellow_cards_team_ranking_cl_names_below": [],
+  "yellow_cards_team_ranking_cl_place": 3
+}

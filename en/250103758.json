@@ -1,0 +1,193 @@
+{
+  "age": "22",
+  "assists_cl": "0",
+  "assists_cl_all_seasons": "3",
+  "assists_global_ranking_cl_names_tied": [
+    "Remko Pasveer",
+    "Simon Mignolet",
+    "Henrikh Mkhitaryan"
+  ],
+  "assists_global_ranking_cl_names_above": [
+    "Ivan Rakiti\u0107",
+    "Edin D\u017eeko",
+    "Chiquinho"
+  ],
+  "assists_global_ranking_cl_names_below": [],
+  "assists_global_ranking_cl_place": 5,
+  "assists_team_ranking_cl_names_tied": [
+    "Kalvin Phillips",
+    "Rico Lewis",
+    "Joshua Wilson-Esbrand"
+  ],
+  "assists_team_ranking_cl_names_above": [
+    "Phil Foden",
+    "Sergio G\u00f3mez",
+    "Riyad Mahrez"
+  ],
+  "assists_team_ranking_cl_names_below": [],
+  "assists_team_ranking_cl_place": 5,
+  "clubs_scored_cl": [
+    "Borussia Dortmund",
+    "FC Salzburg",
+    "Manchester City FC"
+  ],
+  "competition_code": "UCL",
+  "current_club": "Manchester City FC",
+  "current_season": "2023",
+  "fouls_committed_cl": "0",
+  "fouls_committed_cl_all_seasons": "17",
+  "fouls_suffered_cl": "2",
+  "fouls_suffered_cl_all_seasons": "13",
+  "free_kick_cl": "0",
+  "free_kick_cl_all_seasons": "0",
+  "free_kick_global_ranking_cl_names_tied": [
+    "Arthur Gomes",
+    "Kasper Dolberg",
+    "Fatawu Issahaku"
+  ],
+  "free_kick_global_ranking_cl_names_above": [
+    "Henrikh Mkhitaryan",
+    "Karim Benzema",
+    "Edin D\u017eeko"
+  ],
+  "free_kick_global_ranking_cl_names_below": [],
+  "free_kick_global_ranking_cl_place": 24,
+  "free_kick_team_ranking_cl_names_tied": [
+    "Juli\u00e1n \u00c1lvarez",
+    "Kalvin Phillips",
+    "Joshua Wilson-Esbrand"
+  ],
+  "free_kick_team_ranking_cl_names_above": [
+    "Rico Lewis",
+    "Jack Grealish",
+    "Stefan Ortega"
+  ],
+  "free_kick_team_ranking_cl_names_below": [],
+  "free_kick_team_ranking_cl_place": 7,
+  "gender": "male",
+  "goals_average_cl": 1.2,
+  "goals_average_cl_all_seasons": 1.2,
+  "goals_cl": "5",
+  "goals_cl_all_seasons": "28",
+  "goals_global_ranking_cl_names_tied": [
+    "Mehdi Taremi",
+    "Robert Lewandowski"
+  ],
+  "goals_global_ranking_cl_names_above": [
+    "Kylian Mbapp\u00e9",
+    "Mohamed Salah"
+  ],
+  "goals_global_ranking_cl_names_below": [
+    "Lionel Messi",
+    "Giovanni Simeone",
+    "Jude Bellingham"
+  ],
+  "goals_global_ranking_cl_place": 2,
+  "goals_team_ranking_cl_names_tied": [],
+  "goals_team_ranking_cl_names_above": [],
+  "goals_team_ranking_cl_names_below": [
+    "Juli\u00e1n \u00c1lvarez",
+    "Riyad Mahrez"
+  ],
+  "goals_team_ranking_cl_place": 1,
+  "matches_appearance_cl": "4",
+  "matches_appearance_cl_all_seasons": "23",
+  "name": "Erling Haaland",
+  "nationality": "Norway",
+  "passes_accuracy_cl": "90.25",
+  "passes_accuracy_cl_all_seasons": "71.44",
+  "passes_accuracy_global_ranking_cl_names_tied": [],
+  "passes_accuracy_global_ranking_cl_names_above": [
+    "Brandon Mechele",
+    "Benjamin Pavard",
+    "Jules Kound\u00e9"
+  ],
+  "passes_accuracy_global_ranking_cl_names_below": [
+    "Stanislav Lobotka",
+    "Franck Kessie"
+  ],
+  "passes_accuracy_global_ranking_cl_place": 52,
+  "passes_accuracy_team_ranking_cl_names_tied": [],
+  "passes_accuracy_team_ranking_cl_names_above": [
+    "Ederson"
+  ],
+  "passes_accuracy_team_ranking_cl_names_below": [
+    "Jack Grealish"
+  ],
+  "passes_accuracy_team_ranking_cl_place": 11,
+  "position": "Forward",
+  "red_cards_cl": "0",
+  "red_cards_cl_all_seasons": "0",
+  "red_cards_global_ranking_cl_names_tied": [
+    "Remko Pasveer",
+    "Simon Mignolet",
+    "Henrikh Mkhitaryan"
+  ],
+  "red_cards_global_ranking_cl_names_above": [
+    "Antonio Ad\u00e1n",
+    "James Sands",
+    "Kamal Sowah"
+  ],
+  "red_cards_global_ranking_cl_names_below": [],
+  "red_cards_global_ranking_cl_place": 2,
+  "red_cards_team_ranking_cl_names": [
+    "Juli\u00e1n \u00c1lvarez",
+    "Kalvin Phillips",
+    "Rico Lewis"
+  ],
+  "red_cards_team_ranking_cl_names_above": [
+    "Sergio G\u00f3mez"
+  ],
+  "red_cards_team_ranking_cl_names_below": [],
+  "red_cards_team_ranking_cl_place": 2,
+  "start_date_club": "2023",
+  "top_speed_cl": "34.9",
+  "top_speed_cl_all_seasons": "34.9",
+  "top_speed_global_ranking_cl_names_tied": [
+    "Jos\u00e9 \u00c1ngel Carmona",
+    "Youssef En-Nesyri",
+    "Callum Hudson-Odoi"
+  ],
+  "top_speed_global_ranking_cl_names_above": [
+    "Zaidu",
+    "Achraf Hakimi"
+  ],
+  "top_speed_global_ranking_cl_names_below": [
+    "Victor Kristiansen",
+    "Vin\u00edcius J\u00fanior",
+    "Galeno"
+  ],
+  "top_speed_global_ranking_cl_place": 14,
+  "top_speed_team_ranking_cl_names_tied": [],
+  "top_speed_team_ranking_cl_names_above": [],
+  "top_speed_team_ranking_cl_names_below": [
+    "Jo\u00e3o Cancelo"
+  ],
+  "top_speed_team_ranking_cl_place": 1,
+  "yellow_cards_cl": "0",
+  "yellow_cards_cl_all_seasons": "4",
+  "yellow_cards_global_ranking_cl_names_tied": [
+    "Remko Pasveer",
+    "Manuel Neuer",
+    "Ivan Rakiti\u0107"
+  ],
+  "yellow_cards_global_ranking_cl_names_above": [
+    "Henrikh Mkhitaryan",
+    "James Milner",
+    "Minjae Kim"
+  ],
+  "yellow_cards_global_ranking_cl_names_below": [],
+  "yellow_cards_global_ranking_cl_place": 5,
+  "yellow_cards_team_ranking_cl_names_tied": [
+    "Kalvin Phillips",
+    "Rico Lewis",
+    "Joshua Wilson-Esbrand"
+  ],
+  "yellow_cards_team_ranking_cl_names_above": [
+    "Juli\u00e1n \u00c1lvarez",
+    "Phil Foden",
+    "Manuel Akanji"
+  ],
+  "yellow_cards_team_ranking_cl_names_below": [],
+  "yellow_cards_team_ranking_cl_place": 2
+}

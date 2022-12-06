@@ -1,0 +1,189 @@
+{
+  "age": "30",
+  "assists_cl": "1",
+  "assists_cl_all_seasons": "13",
+  "assists_global_ranking_cl_names_tied": [
+    "Rita Schumacher",
+    "Ana Vit\u00f3ria",
+    "Clo\u00e9 Lacasse"
+  ],
+  "assists_global_ranking_cl_names_above": [
+    "Melvine Malard",
+    "Cl\u00e0udia Pina",
+    "Asisat Oshoala"
+  ],
+  "assists_global_ranking_cl_names_below": [
+    "Janice Cayman",
+    "Mateja Zver",
+    "Vanessa Bernauer"
+  ],
+  "assists_global_ranking_cl_place": 4,
+  "assists_team_ranking_cl_names_tied": [
+    "Alsu Abdullina",
+    "Millie Bright",
+    "Niamh Charles"
+  ],
+  "assists_team_ranking_cl_names_above": [
+    "Guro Reiten"
+  ],
+  "assists_team_ranking_cl_names_below": [
+    "Lauren James",
+    "Jessie Fleming",
+    "Kadeisha Buchanan"
+  ],
+  "assists_team_ranking_cl_place": 2,
+  "clubs_scored_cl": [
+    "Chelsea FC Women",
+    "Link\u00f6pings FC",
+    "VfL Wolfsburg"
+  ],
+  "competition_code": "UWCL",
+  "current_club": "Chelsea FC Women",
+  "current_season": "2023",
+  "fouls_committed_cl": "1",
+  "fouls_committed_cl_all_seasons": "43",
+  "fouls_suffered_cl": "0",
+  "fouls_suffered_cl_all_seasons": "62",
+  "free_kick_cl": "0",
+  "free_kick_cl_all_seasons": "1",
+  "free_kick_global_ranking_cl_names_tied": [
+    "Janice Cayman",
+    "Isabelle Meyer",
+    "Maria Bashka"
+  ],
+  "free_kick_global_ranking_cl_names_above": [
+    "Lainie Fuchs",
+    "Athinna Persson",
+    "Agnese Bonfantini"
+  ],
+  "free_kick_global_ranking_cl_names_below": [],
+  "free_kick_global_ranking_cl_place": 16,
+  "free_kick_team_ranking_cl_names_tied": [
+    "Lauren James",
+    "Alsu Abdullina",
+    "Jessie Fleming"
+  ],
+  "free_kick_team_ranking_cl_names_above": [
+    "Niamh Charles",
+    "Jessica Carter",
+    "Johanna Rytting Kaneryd"
+  ],
+  "free_kick_team_ranking_cl_names_below": [],
+  "free_kick_team_ranking_cl_place": 5,
+  "gender": "female",
+  "goals_average_cl": 1.5,
+  "goals_average_cl_all_seasons": 0.8,
+  "goals_cl": "3",
+  "goals_cl_all_seasons": "35",
+  "goals_global_ranking_cl_names_tied": [
+    "Geyse",
+    "Mariona Caldentey",
+    "Valentina Giacinti"
+  ],
+  "goals_global_ranking_cl_names_above": [
+    "Aitana Bonmat\u00ed",
+    "Samantha Kerr",
+    "Ewa Pajor"
+  ],
+  "goals_global_ranking_cl_names_below": [
+    "Clo\u00e9 Lacasse",
+    "Melvine Malard",
+    "Cl\u00e0udia Pina"
+  ],
+  "goals_global_ranking_cl_place": 2,
+  "goals_team_ranking_cl_names_tied": [],
+  "goals_team_ranking_cl_names_above": [
+    "Samantha Kerr"
+  ],
+  "goals_team_ranking_cl_names_below": [
+    "Millie Bright",
+    "Erin Cuthbert",
+    "Kate\u0159ina Svitkov\u00e1"
+  ],
+  "goals_team_ranking_cl_place": 2,
+  "matches_appearance_cl": "2",
+  "matches_appearance_cl_all_seasons": "44",
+  "name": "Pernille Harder",
+  "nationality": "Denmark",
+  "passes_accuracy_cl": "70",
+  "passes_accuracy_cl_all_seasons": "67.5",
+  "passes_accuracy_global_ranking_cl_names_tied": [
+    "Julia Tabotta",
+    "Lainie Fuchs",
+    "Melanie Brunnthaler"
+  ],
+  "passes_accuracy_global_ranking_cl_names_above": [
+    "Jasmin Eder",
+    "Claudia Wenger"
+  ],
+  "passes_accuracy_global_ranking_cl_names_below": [
+    "Barbara Bonansea"
+  ],
+  "passes_accuracy_global_ranking_cl_place": 78,
+  "passes_accuracy_team_ranking_cl_names_tied": [],
+  "passes_accuracy_team_ranking_cl_names_above": [
+    "Guro Reiten"
+  ],
+  "passes_accuracy_team_ranking_cl_names_below": [
+    "Samantha Kerr"
+  ],
+  "passes_accuracy_team_ranking_cl_place": 11,
+  "position": "Midfielder",
+  "red_cards_cl": "0",
+  "red_cards_cl_all_seasons": "0",
+  "red_cards_global_ranking_cl_names_tied": [
+    "Janice Cayman",
+    "Mateja Zver",
+    "Vanessa Bernauer"
+  ],
+  "red_cards_global_ranking_cl_names_above": [
+    "Jasmin Eder"
+  ],
+  "red_cards_global_ranking_cl_names_below": [],
+  "red_cards_global_ranking_cl_place": 2,
+  "red_cards_team_ranking_cl_names": [
+    "Lauren James",
+    "Alsu Abdullina",
+    "Millie Bright"
+  ],
+  "red_cards_team_ranking_cl_names_above": [],
+  "red_cards_team_ranking_cl_names_below": [],
+  "red_cards_team_ranking_cl_place": 1,
+  "start_date_club": "2021",
+  "top_speed_cl": null,
+  "top_speed_cl_all_seasons": null,
+  "top_speed_global_ranking_cl_names_tied": null,
+  "top_speed_global_ranking_cl_names_above": null,
+  "top_speed_global_ranking_cl_names_below": null,
+  "top_speed_global_ranking_cl_place": null,
+  "top_speed_team_ranking_cl_names_tied": null,
+  "top_speed_team_ranking_cl_names_above": null,
+  "top_speed_team_ranking_cl_names_below": null,
+  "top_speed_team_ranking_cl_place": null,
+  "yellow_cards_cl": "0",
+  "yellow_cards_cl_all_seasons": "5",
+  "yellow_cards_global_ranking_cl_names_tied": [
+    "Janice Cayman",
+    "Mateja Zver",
+    "Linda Sembrant"
+  ],
+  "yellow_cards_global_ranking_cl_names_above": [
+    "Vanessa Bernauer",
+    "Franziska Kett",
+    "Lucia Alves"
+  ],
+  "yellow_cards_global_ranking_cl_names_below": [],
+  "yellow_cards_global_ranking_cl_place": 4,
+  "yellow_cards_team_ranking_cl_names_tied": [
+    "Alsu Abdullina",
+    "Millie Bright",
+    "Niamh Charles"
+  ],
+  "yellow_cards_team_ranking_cl_names_above": [
+    "Lauren James",
+    "Kadeisha Buchanan",
+    "Jessica Carter"
+  ],
+  "yellow_cards_team_ranking_cl_names_below": [],
+  "yellow_cards_team_ranking_cl_place": 2
+}
