@@ -1,172 +1,166 @@
 {
-  "age": "27",
-  "assists_cl": "0",
-  "assists_cl_all_seasons": "4",
-  "assists_global_ranking_cl_names_tied": [
-    "Janice Cayman",
-    "Mateja Zver",
-    "Vanessa Bernauer"
-  ],
-  "assists_global_ranking_cl_names_above": [
-    "Rita Schumacher",
-    "Ana Vit\u00f3ria",
-    "Clo\u00e9 Lacasse"
-  ],
-  "assists_global_ranking_cl_names_below": [],
-  "assists_global_ranking_cl_place": 5,
-  "assists_team_ranking_cl_names_tied": [
-    "Sarah Bouhaddi",
-    "Soufiya Ngueleu",
-    "Magnaba Folquet"
-  ],
-  "assists_team_ranking_cl_names_above": [
-    "Sakina Karchaoui",
-    "Kheira Hamraoui"
-  ],
-  "assists_team_ranking_cl_names_below": [],
-  "assists_team_ranking_cl_place": 3,
-  "clubs_scored_cl": [
-    "Paris FC",
-    "Paris Saint-Germain"
-  ],
-  "competition_code": "UWCL",
-  "current_club": "Paris Saint-Germain",
-  "current_season": "2023",
-  "fouls_committed_cl": "7",
-  "fouls_committed_cl_all_seasons": "30",
-  "fouls_suffered_cl": "10",
-  "fouls_suffered_cl_all_seasons": "41",
-  "free_kick_cl": "0",
-  "free_kick_cl_all_seasons": "1",
-  "free_kick_global_ranking_cl_names_tied": [
-    "Janice Cayman",
-    "Isabelle Meyer",
-    "Maria Bashka"
-  ],
-  "free_kick_global_ranking_cl_names_above": [
-    "Lainie Fuchs",
-    "Athinna Persson",
-    "Agnese Bonfantini"
-  ],
-  "free_kick_global_ranking_cl_names_below": [],
-  "free_kick_global_ranking_cl_place": 16,
-  "free_kick_team_ranking_cl_names_tied": [
-    "Soufiya Ngueleu",
-    "Magnaba Folquet",
-    "Manssita Traore"
-  ],
-  "free_kick_team_ranking_cl_names_above": [
-    "Jackie Groenen",
-    "Kheira Hamraoui"
-  ],
-  "free_kick_team_ranking_cl_names_below": [],
-  "free_kick_team_ranking_cl_place": 7,
-  "gender": "female",
-  "goals_average_cl": 0.5,
-  "goals_average_cl_all_seasons": 0.3,
-  "goals_cl": "2",
-  "goals_cl_all_seasons": "9",
-  "goals_global_ranking_cl_names_tied": [
-    "Janice Cayman",
-    "Mateja Zver",
-    "Vanessa Bernauer"
-  ],
-  "goals_global_ranking_cl_names_above": [
-    "Rita Schumacher",
-    "Magnaba Folquet",
-    "Nycole Raysla"
-  ],
-  "goals_global_ranking_cl_names_below": [],
-  "goals_global_ranking_cl_place": 5,
-  "goals_team_ranking_cl_names_tied": [
-    "Sarah Bouhaddi",
-    "Soufiya Ngueleu",
-    "Manssita Traore"
-  ],
-  "goals_team_ranking_cl_names_above": [
-    "Magnaba Folquet",
-    "Sandy Baltimore",
-    "Grace Geyoro"
-  ],
-  "goals_team_ranking_cl_names_below": [],
-  "goals_team_ranking_cl_place": 2,
-  "matches_appearance_cl": "4",
-  "matches_appearance_cl_all_seasons": "31",
-  "name": "Kadidiatou Diani",
-  "nationality": "France",
-  "passes_accuracy_cl": "70.5",
-  "passes_accuracy_cl_all_seasons": "74.82",
-  "passes_accuracy_global_ranking_cl_names_tied": [
-    "Denisa Tenkr\u00e1tov\u00e1"
-  ],
-  "passes_accuracy_global_ranking_cl_names_above": [
-    "Sophie Haug"
-  ],
-  "passes_accuracy_global_ranking_cl_names_below": [
-    "Jasmin Eder",
-    "Claudia Wenger"
-  ],
-  "passes_accuracy_global_ranking_cl_place": 76,
-  "passes_accuracy_team_ranking_cl_names_tied": [],
-  "passes_accuracy_team_ranking_cl_names_above": [
-    "Sandy Baltimore"
-  ],
-  "passes_accuracy_team_ranking_cl_names_below": [],
-  "passes_accuracy_team_ranking_cl_place": 14,
-  "position": "Forward",
-  "red_cards_cl": "0",
-  "red_cards_cl_all_seasons": "0",
-  "red_cards_global_ranking_cl_names_tied": [
-    "Janice Cayman",
-    "Mateja Zver",
-    "Vanessa Bernauer"
-  ],
-  "red_cards_global_ranking_cl_names_above": [
-    "Jasmin Eder"
-  ],
-  "red_cards_global_ranking_cl_names_below": [],
-  "red_cards_global_ranking_cl_place": 2,
-  "red_cards_team_ranking_cl_names": [
-    "Sarah Bouhaddi",
-    "Soufiya Ngueleu",
-    "Magnaba Folquet"
-  ],
-  "red_cards_team_ranking_cl_names_above": [],
-  "red_cards_team_ranking_cl_names_below": [],
-  "red_cards_team_ranking_cl_place": 1,
-  "start_date_club": null,
-  "top_speed_cl": null,
-  "top_speed_cl_all_seasons": "30.2",
-  "top_speed_global_ranking_cl_names_tied": null,
-  "top_speed_global_ranking_cl_names_above": null,
-  "top_speed_global_ranking_cl_names_below": null,
-  "top_speed_global_ranking_cl_place": null,
-  "top_speed_team_ranking_cl_names_tied": null,
-  "top_speed_team_ranking_cl_names_above": null,
-  "top_speed_team_ranking_cl_names_below": null,
-  "top_speed_team_ranking_cl_place": null,
-  "yellow_cards_cl": "0",
-  "yellow_cards_cl_all_seasons": "1",
-  "yellow_cards_global_ranking_cl_names_tied": [
-    "Janice Cayman",
-    "Mateja Zver",
-    "Linda Sembrant"
-  ],
-  "yellow_cards_global_ranking_cl_names_above": [
-    "Vanessa Bernauer",
-    "Franziska Kett",
-    "Lucia Alves"
-  ],
-  "yellow_cards_global_ranking_cl_names_below": [],
-  "yellow_cards_global_ranking_cl_place": 4,
-  "yellow_cards_team_ranking_cl_names_tied": [
-    "Sarah Bouhaddi",
-    "Soufiya Ngueleu",
-    "Magnaba Folquet"
-  ],
-  "yellow_cards_team_ranking_cl_names_above": [
-    "Ramona Bachmann"
-  ],
-  "yellow_cards_team_ranking_cl_names_below": [],
-  "yellow_cards_team_ranking_cl_place": 3
+    "age": "27",
+    "assists_cl": "0",
+    "assists_cl_all_seasons": "4",
+    "assists_global_ranking_cl_names_above": [
+        "Ana Vit\u00f3ria",
+        "Clo\u00e9 Lacasse",
+        "Sveind\u00eds J\u00f3nsd\u00f3ttir"
+    ],
+    "assists_global_ranking_cl_names_below": [],
+    "assists_global_ranking_cl_names_tied": [
+        "Janice Cayman",
+        "Mateja Zver",
+        "Vanessa Bernauer"
+    ],
+    "assists_global_ranking_cl_place": 4,
+    "assists_team_ranking_cl_names_above": [],
+    "assists_team_ranking_cl_names_below": [],
+    "assists_team_ranking_cl_names_tied": [
+        "Sarah Bouhaddi",
+        "Manssita Traore",
+        "Laurina Fazer"
+    ],
+    "assists_team_ranking_cl_place": 1,
+    "clubs_scored_cl": [
+        "Paris FC",
+        "Paris Saint-Germain"
+    ],
+    "competition_code": "UWCL",
+    "current_club": "Paris Saint-Germain",
+    "current_season": "2023",
+    "fouls_committed_cl": "7",
+    "fouls_committed_cl_all_seasons": "30",
+    "fouls_suffered_cl": "10",
+    "fouls_suffered_cl_all_seasons": "41",
+    "free_kick_cl": "0",
+    "free_kick_cl_all_seasons": "1",
+    "free_kick_global_ranking_cl_names_above": [
+        "Vanessa Bernauer",
+        "Tainara",
+        "Val\u00e9ria Silva"
+    ],
+    "free_kick_global_ranking_cl_names_below": [],
+    "free_kick_global_ranking_cl_names_tied": [
+        "Janice Cayman",
+        "Isabelle Meyer",
+        "Maria Bashka"
+    ],
+    "free_kick_global_ranking_cl_place": 13,
+    "free_kick_team_ranking_cl_names_above": [
+        "Jackie Groenen"
+    ],
+    "free_kick_team_ranking_cl_names_below": [],
+    "free_kick_team_ranking_cl_names_tied": [
+        "Manssita Traore",
+        "Laurina Fazer",
+        "Sandy Baltimore"
+    ],
+    "free_kick_team_ranking_cl_place": 7,
+    "gender": "female",
+    "goals_average_cl": 0.5,
+    "goals_average_cl_all_seasons": 0.3,
+    "goals_cl": "2",
+    "goals_cl_all_seasons": "9",
+    "goals_global_ranking_cl_names_above": [
+        "Rita Schumacher",
+        "Nycole Raysla",
+        "Clo\u00e9 Lacasse"
+    ],
+    "goals_global_ranking_cl_names_below": [],
+    "goals_global_ranking_cl_names_tied": [
+        "Janice Cayman",
+        "Mateja Zver",
+        "Vanessa Bernauer"
+    ],
+    "goals_global_ranking_cl_place": 5,
+    "goals_team_ranking_cl_names_above": [],
+    "goals_team_ranking_cl_names_below": [],
+    "goals_team_ranking_cl_names_tied": [
+        "Sarah Bouhaddi",
+        "Manssita Traore",
+        "Laurina Fazer"
+    ],
+    "goals_team_ranking_cl_place": 1,
+    "matches_appearance_cl": "4",
+    "matches_appearance_cl_all_seasons": "31",
+    "name": "Kadidiatou Diani",
+    "nationality": "France",
+    "passes_accuracy_cl": "70.5",
+    "passes_accuracy_cl_all_seasons": "74.82",
+    "passes_accuracy_global_ranking_cl_names_above": [
+        "Janice Cayman",
+        "Samantha Kerr",
+        "Stina Blackstenius"
+    ],
+    "passes_accuracy_global_ranking_cl_names_below": [
+        "Pernille Harder"
+    ],
+    "passes_accuracy_global_ranking_cl_names_tied": [
+        "Leonarda Balog",
+        "Lainie Fuchs",
+        "Denisa Tenkr\u00e1tov\u00e1"
+    ],
+    "passes_accuracy_global_ranking_cl_place": 52,
+    "passes_accuracy_team_ranking_cl_names_above": [
+        "Jackie Groenen"
+    ],
+    "passes_accuracy_team_ranking_cl_names_below": [],
+    "passes_accuracy_team_ranking_cl_names_tied": [],
+    "passes_accuracy_team_ranking_cl_place": 11,
+    "position": "Forward",
+    "red_cards_cl": "0",
+    "red_cards_cl_all_seasons": "0",
+    "red_cards_global_ranking_cl_names_above": [],
+    "red_cards_global_ranking_cl_names_below": [],
+    "red_cards_global_ranking_cl_names_tied": [
+        "Janice Cayman",
+        "Mateja Zver",
+        "Vanessa Bernauer"
+    ],
+    "red_cards_global_ranking_cl_place": 1,
+    "red_cards_team_ranking_cl_names": [
+        "Sarah Bouhaddi",
+        "Manssita Traore",
+        "Laurina Fazer"
+    ],
+    "red_cards_team_ranking_cl_names_above": [],
+    "red_cards_team_ranking_cl_names_below": [],
+    "red_cards_team_ranking_cl_place": 1,
+    "start_date_club": null,
+    "top_speed_cl": null,
+    "top_speed_cl_all_seasons": "30.2",
+    "top_speed_global_ranking_cl_names_above": null,
+    "top_speed_global_ranking_cl_names_below": null,
+    "top_speed_global_ranking_cl_names_tied": null,
+    "top_speed_global_ranking_cl_place": null,
+    "top_speed_team_ranking_cl_names_above": null,
+    "top_speed_team_ranking_cl_names_below": null,
+    "top_speed_team_ranking_cl_names_tied": null,
+    "top_speed_team_ranking_cl_place": null,
+    "yellow_cards_cl": "0",
+    "yellow_cards_cl_all_seasons": "1",
+    "yellow_cards_global_ranking_cl_names_above": [
+        "Vanessa Bernauer",
+        "Franziska Kett",
+        "Lucia Alves"
+    ],
+    "yellow_cards_global_ranking_cl_names_below": [],
+    "yellow_cards_global_ranking_cl_names_tied": [
+        "Janice Cayman",
+        "Mateja Zver",
+        "Linda Sembrant"
+    ],
+    "yellow_cards_global_ranking_cl_place": 3,
+    "yellow_cards_team_ranking_cl_names_above": [
+        "Amanda Ilestedt",
+        "Ramona Bachmann"
+    ],
+    "yellow_cards_team_ranking_cl_names_below": [],
+    "yellow_cards_team_ranking_cl_names_tied": [
+        "Sarah Bouhaddi",
+        "Manssita Traore",
+        "Laurina Fazer"
+    ],
+    "yellow_cards_team_ranking_cl_place": 2
 }
